@@ -1,0 +1,71 @@
+- **Overview:**
+  - Endometrial cancer is the 5th most common cancer in women (after breast, lung, colon, skin).
+  - 90% of cases are adenocarcinomas:
+    - **Type I:** oestrogen-dependent (endometrioid carcinoma), favorable prognosis.
+    - **Type II:** oestrogen-independent (non-endometrioid carcinoma), less common, more aggressive.
+
+- **Diagnosis:**
+  - Most affected: women over 50 (median age: 63).
+  - New cases in the UK: ~8,600/year.
+  - Common symptoms:
+    - Postmenopausal bleeding
+    - Irregular menstrual cycle:
+      - Heavy bleeding
+      - Bleeding between periods
+      - Vaginal discharge
+  - Symptoms of disseminated cancer:
+    - Increased abdominal circumference (ascites/ovarian cysts)
+    - Pain (due to organ impact)
+    - Shortness of breath (lung metastases)
+    - Fatigue
+
+- **Risk Factors:**
+  - Long unopposed oestrogen exposure
+  - Menopause after age 52
+  - High BMI
+  - Nulliparity
+  - Hereditary non-polyposis colorectal cancer (HNPCC): 30-60% lifetime risk
+  - Polycystic ovary syndrome (PCOS)
+  - Diabetes
+  - Tamoxifen treatment
+
+- **Investigations:**
+  - Gynecological exam (looking for blood/tissue)
+  - Transvaginal ultrasound (TVUS)
+  - Endometrial biopsy (via outpatient hysteroscopy)
+  - Hysteroscopy (preferred for diagnostic accuracy)
+  - Cancer antigen 125 (CA-125)
+  - CT scan 
+  - Chest X-ray
+  - Full blood count (FBC) and liver function tests (LFTs)
+  - Pregnancy test (for women of childbearing age)
+
+- **Staging (FIGO):**
+  - **Stage I:** Carcinoma confined to corpus uteri.
+    - IA: Endometrium only.
+    - IB: Myometrium involvement.
+  - **Stage II:** Involvement of cervical stroma, still within uterus.
+  - **Stage III:** Spread beyond uterus.
+    - IIIA: Serosa/adnexa involvement.
+    - IIIB: Para-metrial/vaginal metastases.
+    - IIIC: Pelvic/para-aortic lymph nodes.
+  - **Stage IV:** Invasion of bowel/bladder or distant metastases.
+    - IVA: Bowel/bladder mucosa.
+    - IVB: Distant metastases.
+  - Most patients diagnosed at advanced stages (FIGO III-IV).
+
+- **Management (Prescribing):**
+  - Treatment based on FIGO stage; surgery is often necessary.
+  - Fertility preservation: progestogen for stage IA.
+
+- **Management (Non-prescribing):**
+  - **Stage I:** Total abdominal hysterectomy + bilateral salpingo-oophorectomy.
+  - **Stage II:** Radical hysterectomy + systemic pelvic lymph node clearance.
+  - **Stages III/IV:** Debulking surgery + radiation/chemotherapy.
+  - If surgery isn't an option: external beam/intracavity radiotherapy.
+  - Some may need adjuvant radiotherapy; most treated with surgery alone.
+
+- **References:**
+  - [Patient Info on Endometrial Cancer](https://patient.info/doctor/endometrial-cancer)
+  - [Cancer Research UK on Womb Cancer](https://www.cancerresearchuk.org/about-cancer/womb-cancer/types-grades)
+  - [UpToDate on Endometrial Carcinoma Overview](https://www.uptodate.com/contents/overview-of-endometrial-carcinoma)

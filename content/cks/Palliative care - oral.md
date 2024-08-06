@@ -1,0 +1,85 @@
+- **Common Oral Problems in Palliative Care:**
+  - Dry mouth
+  - Painful mouth
+  - Halitosis
+  - Alteration of taste
+  - Excessive salivation
+- **Causes:**
+  - Poor oral intake
+  - Drug treatments
+  - Local irradiation
+  - Oral tumors
+  - Chemotherapy
+
+- **Impact on Quality of Life:**
+  - Affects eating, drinking, communication
+  - Causes oral discomfort and pain
+
+- **Assessment of Oral Symptoms:**
+  - **Ask about:**
+    - Dry mouth
+    - Oral pain
+    - Halitosis
+    - Alteration in taste
+    - Excessive salivation
+    - Bad breath
+    - Difficulty chewing
+    - Difficulty speaking
+    - Dysphagia
+    - Bleeding
+  - **Examine for:**
+    - Signs of dehydration
+    - Level of oral hygiene
+    - Ulceration and vesicles
+    - Erythema or white patches
+    - Local tumor
+    - Bleeding
+    - Infection
+
+- **Diagnosis:**
+  - Most oral problems diagnosed clinically; investigations rarely required.
+  - **Consider tests if:**
+    - Neutropenia is suspected: Full blood count
+    - Spontaneous bleeding with chemotherapy-induced mucositis: Platelet count
+    - Recurrent aphthous ulceration: Iron, folate, B12 levels
+    - Suggestive of Candida infection: Swab for infection; species typing and sensitivity testing for recurrent cases
+
+- **Preventive Measures:**
+  - Regular tooth brushing
+  - Rinsing mouth with warm water or chlorhexidine mouthwash
+  - Removing dentures at night
+  - Smoking cessation
+  - Reducing alcohol consumption
+
+- **Management Strategies:**
+  - **For Dry Mouth:**
+    - Cold unsweetened drinks, ice cubes
+    - Petroleum jelly on lips
+    - Sugar-free chewing gum or sweets
+    - Topical saliva stimulants/substitutes for refractory cases
+  - **For Oral Pain:**
+    - Topical non-opioid analgesia for mild to moderate pain
+    - Combined topical/systemic analgesia for severe pain
+    - Topical corticosteroids for aphthous ulcers
+    - Topical/oral aciclovir for oral herpes simplex
+- **Referral Considerations:**
+  - Concern about oral intake/nutrition
+  - Refractory oral pain
+  - Severe mucositis
+  - Suspected neutropenic ulcers
+  - Severe/persistent/bleeding oral ulceration
+  - Severe/persistent Candida infection
+  - Severe oral herpes simplex infection
+  - Prolonged taste disturbance (dietitian)
+  - Communication problems/excessive salivation (speech and language therapist)
+
+- **End-of-Life Oral Care:**
+  - Provide mouth care as needed to maintain cleanliness
+  - Moisten mouth every 30 minutes to 1 hour with:
+    - Water spray
+    - Dropper
+    - Ice chips
+    - Sponge stick
+  - Apply petroleum jelly on lips to prevent cracking
+  - Use room humidifier or air conditioning if needed
+  - Manage pain symptomatically with appropriate analgesics

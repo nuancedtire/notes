@@ -1,0 +1,47 @@
+- **Red Eye Overview**: 
+  - Wide differential diagnosis for red eye.
+  - Important to determine need for same-day ophthalmologist assessment, urgent assessment, or safe management in primary care.
+
+- **Serious Causes of Red Eye**:
+  - Acute glaucoma
+  - Anterior uveitis
+  - Corneal ulcer
+  - Contact lens-related red eye
+  - Corneal foreign body
+  - Neonatal conjunctivitis
+  - Trauma (penetrating eye injury, high-velocity foreign body)
+  - Chemical injuries
+  - Scleritis
+  - Endophthalmitis
+
+- **Assessment of Red Eye**:
+  - **History**:
+    - Onset and duration of symptoms
+    - Unilateral or bilateral presentation
+    - Associated symptoms: visual changes, pain, foreign body sensation, discharge, photophobia
+    - Contact lens usage
+    - Trauma or chemical exposure
+    - Previous episodes
+    - Relevant past medical history and medication
+  - **Examination**:
+    - Inspection
+    - Visual acuity assessment
+    - Fluorescein examination
+    - Pupil reactions
+
+- **Indicators for Same-Day Ophthalmology Assessment**:
+  - Reduced visual acuity
+  - Moderate to severe pain
+  - Headache
+  - Photophobia
+  - Ciliary injection
+  - Fluorescein staining of the cornea
+  - Unequal/misshapen pupils, abnormal pupillary reactions, painful pupillary constriction
+  - Pain on pupillary constriction
+  - Loss of red reflex
+  - Corneal defect/haze
+  - Hyphaema (blood in anterior chamber) or hypopyon (pus in anterior chamber)
+  - High-velocity injury
+  - Foreign body or penetrating lesion
+  - Chemical eye injury
+  - Conjunctivitis in infants (first 28 days of life)

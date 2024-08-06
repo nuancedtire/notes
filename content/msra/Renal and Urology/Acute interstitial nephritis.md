@@ -1,0 +1,52 @@
+- **Causes of Acute Interstitial Nephritis**:
+  - Common: Allergic reactions to medications.
+  - Other causes: Infections, systemic diseases.
+  - Common drugs: 
+    - NSAIDs
+    - Diuretics
+    - PPIs
+    - Antibiotics (penicillins, cephalosporins, sulphonamides)
+  - **Onset**: Can present days/weeks after starting medication.
+  - **Systemic causes**: SLE, sarcoidosis, Sjogren’s syndrome.
+
+- **Diagnosis**:
+  - Symptoms can be sudden or gradual.
+  - Typical presentations:
+    - Painless haematuria
+    - Sterile pyuria
+    - Flank/loin pain
+    - Rash (indicates drug hypersensitivity)
+    - Fever
+    - Arthralgia (indicates drug hypersensitivity)
+    - Eosinophilia
+    - Nocturia
+    - Oliguria
+
+- **Investigations**:
+  - **Urinalysis**:
+    - Proteinuria
+    - Haematuria (no RBC casts, unlike glomerulonephritis)
+    - Sterile pyuria
+    - White blood cell casts
+  - **Blood tests**:
+    - Raised urea and creatinine
+    - Eosinophilia
+    - Raised ALT (if drug-induced)
+  - **Imaging**:
+    - Renal biopsy (rare but useful for diagnosis)
+    - Renal ultrasound (may show large inflamed kidneys, not routinely done)
+
+- **Management (Prescribing)**:
+  - Stop the offending drug (renal function usually improves).
+  - NSAIDs may predict worse prognosis.
+  - Treat underlying disorders/infections first.
+  - Corticosteroids may help recovery if autoimmune/allergic in nature.
+
+- **Management (Non-Prescribing)**:
+  - Dialysis in extreme cases.
+  - Potential for irreversible renal damage, may require transplant.
+  - Regular monitoring of kidney function to assess treatment response.
+
+- **References**:
+  - [CKJ Article](https://academic.oup.com/ckj/article/12/6/808/5531252)
+  - [Dundee Medical Notes](https://dundeemedstudentnotes.wordpress.com/2014/07/28/acute-interstitial-nephritis/)

@@ -1,0 +1,33 @@
+- **Definition**: A malignant ulcer is a proliferative or cavitating primary or secondary cancer in the skin, presenting as a crater-like wound or nodular lesion.
+
+- **Primary Care Management**:
+  - **Assessment**:
+    - Evaluate type, site, and size of ulcer.
+    - Check for necrotic tissue and condition of surrounding skin.
+    - Identify any complications.
+  - **Patient Discussion**:
+    - Address concerns and treatment priorities with the patient.
+    - Advise that healing is unlikely; focus on maintaining quality of life.
+  - **Professional Involvement**:
+    - Involve wound management experts (e.g., district nurse, palliative care, tissue viability nurse) for advice on cleansing, debridement, and dressing selection.
+  - **Referral**:
+    - Refer to an oncologist or palliative care specialist for potential additional cancer treatments (radiotherapy, chemotherapy, surgical intervention).
+
+- **Management of Common Complications**:
+  - **Pain**:
+    - Identify and treat underlying causes.
+    - Use appropriate analgesia; provide breakthrough analgesia before dressing changes if needed.
+  - **Infection**:
+    - Take a swab; use antibiotics if indicated.
+  - **Bleeding**:
+    - Apply gentle pressure for mild bleeding; seek specialist advice for heavy bleeding.
+  - **Exudate**:
+    - Protect surrounding skin; consult specialists for copious exudate.
+  - **Odour**:
+    - Prescribe metronidazole as needed; consider non-pharmacological measures.
+  - **Itch**:
+    - Consider mild topical corticosteroids.
+  - **Psychosocial Issues**:
+    - Manage symptoms effectively; consider cosmetic impact of dressings.
+
+- **Referral**: Consider referral for specialist advice if primary care management is insufficient.
