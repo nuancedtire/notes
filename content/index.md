@@ -1,3 +1,7 @@
+---
+title: Welcome to Quartz
+---
+
 ## MSRA Notes
 ### Cardiology
 - [[msra/Cardiovascular/Angina|Angina]]
@@ -527,7 +531,7 @@
 - [[Menopause]]
 - [[Menorrhagia (heavy menstrual bleeding)]]
 - [[Mental health in students]]
-- [[Ménière's disease]]
+- [[Ménière's disease]]
 - [[Migraine]]
 - [[Miscarriage]]
 - [[Molluscum contagiosum]]
