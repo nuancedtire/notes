@@ -5,7 +5,14 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Explorer({
+      title: "Notes", // title of the explorer component
+      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    })
+  ],
   footer: Component.Footer(),
 }
 
@@ -60,12 +67,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.Explorer({
-      title: "Notes", // title of the explorer component
-      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-      folderDefaultState: "collapsed",
-      useSavedState: true,
-    })
   ],
 }
 
