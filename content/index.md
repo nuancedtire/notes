@@ -4,7 +4,7 @@ title: Notes
 
 ## MSRA Notes
 
->[!info]-  Cardiology
+>[!example]-  Cardiology
 > - [[msra/Cardiovascular/Angina|Angina]]
 > - [[Acute coronary syndrome]]
 > - [[Post MI]]
@@ -29,7 +29,7 @@ title: Notes
 > - [[Cardiac Tamponade]]
 > - [[Coronary heart disease Treatment based on risk]]
 
->[!info]-  Dermatology
+>[!example]-  Dermatology
 > - [[msra/Dermatology/Acne vulgaris|Acne vulgaris]]
 > - [[Actinic keratoses]]
 > - [[Allergic contact dermatitis]]
@@ -66,7 +66,7 @@ title: Notes
 > - [[Stevens-Johnson Syndrome]]
 > - [[Subtypes of malignant melanoma]]
 
->[!info]-  Ear Nose & Throat
+>[!example]-  Ear Nose & Throat
 > - [[Acoustic neuroma]]
 > - [[Acute bacterial sinusitis]]
 > - [[Acute Laryngitis]]
@@ -99,7 +99,7 @@ title: Notes
 > - [[msra/Ear, Nose and Throat/Trigeminal Neuralgia|Trigeminal Neuralgia]]
 > - [[Upper respiratory tract infections]]
 
->[!info]-  Endocrinology and Metabolic
+>[!example]-  Endocrinology and Metabolic
 > - [[Addison’s disease]]
 > - [[Adrenal Insufficiency]]
 > - [[Congenital adrenal hyperplasia]]
@@ -123,7 +123,7 @@ title: Notes
 > - [[Type 1 Diabetes Mellitus]]
 > - [[Type 2 Diabetes Mellitus]]
 
->[!info]-  Gastroneterology and Nutrition
+>[!example]-  Gastroneterology and Nutrition
 > - [[Acute mesenteric ischaemia]]
 > - [[Anal fissures]]
 > - [[msra/Gastroenterology and Nutrition/Appendicitis|Appendicitis]]
@@ -147,7 +147,7 @@ title: Notes
 > - [[Primary Sclerosing Cholangitis]]
 > - [[msra/Gastroenterology and Nutrition/Ulcerative colitis|Ulcerative colitis]]
 
->[!info]-  Genetics
+>[!example]-  Genetics
 > - [[Achondroplasia]]
 > - [[Cystic Fibrosis]]
 > - [[Familial hypercholesterolaemia]]
@@ -159,7 +159,7 @@ title: Notes
 > - [[Patau syndrome]]
 > - [[Turner syndrome]]
 
->[!info]-  Haematology
+>[!example]-  Haematology
 > - [[Beta Thalassemia]]
 > - [[Causes of anaemia]]
 > - [[Folic acid deficiency]]
@@ -174,7 +174,7 @@ title: Notes
 > - [[Sickle cell anaemia]]
 > - [[msra/Haematology/Sickle cell disease|Sickle cell disease]]
 
->[!info]-  Immunology and Cancer
+>[!example]-  Immunology and Cancer
 > - [[Aetiology and epidemiology of cancer]]
 > - [[Bronchial cancer]]
 > - [[Endometrial cancer]]
@@ -186,7 +186,7 @@ title: Notes
 > - [[Small-Cell Lung Cancer]]
 > - [[Stomach Cancer]]
 
->[!info]-  Infectious disease
+>[!example]-  Infectious disease
 > - [[Bilharzia]]
 > - [[Clostridium difficile]]
 > - [[Dengue fever]]
@@ -206,7 +206,7 @@ title: Notes
 > - [[Viral Meningitis]]
 > - [[Yellow fever]]
 
->[!info]-  Musculoskeletal
+>[!example]-  Musculoskeletal
 > - [[Acute limb ischaemia]]
 > - [[msra/Musculoskeletal/Carpal Tunnel Syndrome|Carpal Tunnel Syndrome]]
 > - [[Chronic limb ischaemia]]
@@ -237,7 +237,7 @@ title: Notes
 > - [[msra/Musculoskeletal/Tennis Elbow|Tennis Elbow]]
 > - [[Vasculitides]]
 
->[!info]-  Neurology
+>[!example]-  Neurology
 > - [[Acute confusional state]]
 > - [[Alzheimer’s disease]]
 > - [[Amaurosis fugax]]
@@ -270,7 +270,7 @@ title: Notes
 > - [[Vasovagal syncope]]
 > - [[Wernicke’s encephalopathy]]
 
->[!info]-  Ophthalmology
+>[!example]-  Ophthalmology
 > - [[Acute iritis]]
 > - [[Acute angle-closure glaucoma]]
 > - [[msra/Ophthalmology/Age-related macular degeneration|Age-related macular degeneration]]
@@ -292,7 +292,7 @@ title: Notes
 ---
 ## CKS notes
 
->[!info]-  CKS notes
+>[!example]-  CKS notes
 > - [[AIDS and HIV infection]]
 > - [[Abdominal aortic aneurysm screening]]
 > - [[Abortion]]
