@@ -17,10 +17,15 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Explorer({
+      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    })
+    
   ],
   left: [
     Component.PageTitle(),
