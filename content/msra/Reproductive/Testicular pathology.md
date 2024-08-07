@@ -9,13 +9,13 @@
   2. **Possible Conditions Based on Findings:**
      - **Cannot get above it:**
        - Possible inguinal hernia
-       - Proximally extending hydrocele
+       - Proximally extending [[Hydrocele]]
      - **Separate from testis:**
-       - Fluid-filled: Epididymal cyst
-       - Solid: Epididymitis
-       - 'Bag of worms' feel: Varicocele
+       - Fluid-filled: [[Epididymal cyst]]
+       - Solid: [[Epididymitis]]
+       - 'Bag of worms' feel: [[Varicocele]]
      - **Attached to testis:**
-       - Fluid-filled: Hydrocele
+       - Fluid-filled: [[Hydrocele]]
        - Solid: Tumour, haematocele, orchitis, gumma, or granuloma
 
 ### **References**

@@ -1,6 +1,6 @@
 Renal transitional cell carcinoma (TCC) is a malignant tumor arising from transitional (urothelial) epithelial cells in the renal pelvis and ureter.
 
-- **Incidence**: Accounts for 5-10% of primary renal malignant pelvic tumors; less common than renal cell carcinoma (RCC).
+- **Incidence**: Accounts for 5-10% of primary renal malignant pelvic tumors; less common than [[Renal Cell Carcinoma]] (RCC).
 - **Demographics**: Peak incidence between 60-70 years, more common in males (4:1).
 - **Metastasis**: Commonly spreads to lungs, liver, and bone.
 - **Prognosis**: Tumor stage (TNM) is crucial; most renal pelvis TCCs are low grade with a 5-year survival rate exceeding 90%.
@@ -11,7 +11,7 @@ Renal transitional cell carcinoma (TCC) is a malignant tumor arising from transi
   - Painless gross hematuria (75-95% of patients)
   - Dysuria, urinary frequency, urgency, flank pain
   - Clinical triad of hematuria, loin pain, loin mass (15% of patients)
-  - Late-stage symptoms: hemoptysis, pathological fractures, persistent back pain, systemic symptoms (fatigue, malaise, weight loss)
+  - Late-stage symptoms: hemoptysis, pathological [[Fractures]], persistent back pain, systemic symptoms (fatigue, malaise, weight loss)
 
 - **Risk Factors**: 
   - Smoking

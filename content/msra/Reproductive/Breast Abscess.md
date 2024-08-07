@@ -31,7 +31,7 @@
   - Hypoechoic collection
   - Absence of vascularity within the abscess
   - Acoustic enhancement (fluid content)
-  - Echogenic/vascular rim
+  - Echogenic/[[Vascular]] rim
   
 - **Mammography**: Rarely used, mainly to exclude malignancy in:
   - Lactation abscesses in patients over 30.

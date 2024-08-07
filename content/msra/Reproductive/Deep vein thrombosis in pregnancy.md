@@ -1,4 +1,4 @@
-Deep vein thrombosis (DVT) is a type of venous thrombus that commonly occurs during pregnancy and in other prothrombotic states. If a DVT breaks off and travels as an embolus, it can lead to venous thromboembolism (VTE), which may lodge in the lungs as a pulmonary embolus (PE). VTE, if untreated, results in high morbidity and mortality; PE is the leading direct cause of maternal death in the UK. The RCOG has developed national guidelines for thromboprophylaxis in at-risk pregnant women and the management of VTE.
+[[Deep vein thrombosis]] (DVT) is a type of venous thrombus that commonly occurs during pregnancy and in other prothrombotic states. If a DVT breaks off and travels as an embolus, it can lead to venous thromboembolism (VTE), which may lodge in the lungs as a pulmonary embolus (PE). VTE, if untreated, results in high morbidity and mortality; PE is the leading direct cause of maternal death in the UK. The RCOG has developed national guidelines for thromboprophylaxis in at-risk pregnant women and the management of VTE.
 
 ### Diagnosis
 
@@ -12,7 +12,7 @@ Pregnancy is associated with increased thrombotic risk, but not all women requir
 - BMI ≥30
 - Parity ≥3
 - Smoker
-- Gross varicose veins
+- Gross [[Varicose veins]]
 
 **Obstetric Risk Factors**
 - Caesarean section
@@ -21,7 +21,7 @@ Pregnancy is associated with increased thrombotic risk, but not all women requir
 - Stillbirth
 - Preterm birth
 - Major postpartum hemorrhage (>1L/transfusion)
-- Current pre-eclampsia
+- Current [[Pre-Eclampsia]]
 
 **Transient Risk Factors**
 - Surgical procedure
@@ -53,7 +53,7 @@ Diagnosis: Doppler ultrasound or MR venograms.
 
 Symptoms may also relate to DVT. Diagnosis: CT pulmonary angiograms (CTPA) or ventilation-perfusion (VQ) scans.
 
-**Cerebral Venous Thrombosis** (1 in 10,000 pregnancies) may present with headache/stroke during the puerperium. Diagnosis: MRI.
+**Cerebral Venous Thrombosis** (1 in 10,000 pregnancies) may present with headache/[[Stroke]] during the puerperium. Diagnosis: MRI.
 
 ### Investigations
 
@@ -62,11 +62,11 @@ Symptoms may also relate to DVT. Diagnosis: CT pulmonary angiograms (CTPA) or ve
 - **Doppler ultrasound** or **venogram**.
 
 #### Suspected PE:
-- **Chest X-ray**, **ECG**, and **arterial blood gas**.
+- **Chest X-ray**, **[[ECG]]**, and **arterial blood gas**.
 - **Portable echo** if unstable.
 - **CTPA** or **V/Q scan**:
-  - CTPA may increase lifetime breast cancer risk and has higher nondiagnostic rates.
-  - V/Q scanning may increase childhood cancer risk; preferred in young women with family history of breast cancer.
+  - CTPA may increase lifetime [[Breast cancer]] risk and has higher nondiagnostic rates.
+  - V/Q scanning may increase childhood cancer risk; preferred in young women with family history of [[Breast cancer]].
 - Lab diagnosis for **antiphospholipid syndrome**: 
   - Lupus anticoagulant, anticardiolipin, and/or anti-β2-glycoprotein I (measured twice >3 months apart).
 

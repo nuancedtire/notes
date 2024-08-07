@@ -9,13 +9,13 @@ A hydrocele is a fluid collection in the tunica vaginalis surrounding the testes
   - Rare in adults; may occur due to:  
     - Ascites  
     - Peritoneal dialysis  
-    - Fluid overload (nephrotic syndrome, heart failure)  
+    - Fluid overload ([[Nephrotic syndrome]], [[Heart failure]])  
 - **Non-communicating**  
   - More common in adults  
   - Arises from increased secretion of fluid from the tunica vaginalis  
   - Often idiopathic, but may result from:  
-    - Trauma (minor trauma, testicular torsion, varicocele operation)  
-    - Infection (epididymitis)  
+    - Trauma (minor trauma, [[Testicular Torsion]], [[Varicocele]] operation)  
+    - Infection ([[Epididymitis]])  
     - Testicular tumor  
 
 #### Clinical Features
@@ -29,7 +29,7 @@ A hydrocele is a fluid collection in the tunica vaginalis surrounding the testes
 ### Investigations
 - Generally, no investigations needed if diagnosis is clear from history and examination.  
 - Ultrasound is indicated if:  
-  - Diagnosis is uncertain (differentials include inguinal hernia, testicular cancer, epididymitis, epididymo-orchitis, epididymal cyst, testicular torsion)  
+  - Diagnosis is uncertain (differentials include inguinal hernia, [[Testicular Cancer]], [[Epididymitis]], epididymo-orchitis, [[Epididymal cyst]], [[Testicular Torsion]])  
   - Testes cannot be palpated  
   - Symptoms suggestive of underlying pathology (fever, GI symptoms, shadow on transillumination, tenderness)  
 

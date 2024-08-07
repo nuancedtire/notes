@@ -6,7 +6,7 @@
 - Severity assessment tools (e.g., CRB-65) help determine appropriate clinical care.
 
 ### Diagnosis
-- Typical symptoms: fever, productive cough, dyspnoea, pleuritic [[chest pain]].
+- Typical symptoms: fever, productive [[Cough]], dyspnoea, pleuritic [[chest pain]].
 - Diagnosis suggested with localizing signs (e.g., crackles), evidence on chest imaging.
 - CRB-65 score aids in management triage decisions.
 
@@ -61,6 +61,6 @@
 - Vaccinations for 'high risk' patients, including adults over 65 years. 
 
 ### References
-- Lim WS et al., BTS guidelines for the management of community-acquired pneumonia in adults: update 2009. Thorax 2009;64(Suppl 3):iii1.
+- Lim WS et al., BTS guidelines for the management of community-acquired [[Pneumonia]] in adults: update 2009. Thorax 2009;64(Suppl 3):iii1.
 - NICE guideline [NG138](https://www.nice.org.uk/guidance/ng138).
 - [BMJ Best Practice on CAP](https://bestpractice.bmj.com/topics/en-us/17).

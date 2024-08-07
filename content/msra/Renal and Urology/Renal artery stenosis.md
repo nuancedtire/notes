@@ -18,13 +18,13 @@
 
 - **Diagnosis**:
   - Most patients are asymptomatic; diagnosis usually incidental.
-  - Common presenting complaint: Raised blood pressure (accelerated/resistant hypertension).
+  - Common presenting complaint: Raised blood pressure (accelerated/resistant [[msra/Cardiovascular/Hypertension|Hypertension]]).
   - Abdominal bruit: Raises suspicion for RAS.
   - Symptoms of Sodium Retention: Peripheral oedema or recurrent flash pulmonary oedema.
 
 - **Investigations**:
   - Baseline assessment with urea and electrolytes (creatinine, potassium).
-  - Exclude other secondary hypertension causes (e.g., aldosterone-to-renin ratio).
+  - Exclude other secondary [[msra/Cardiovascular/Hypertension|Hypertension]] causes (e.g., aldosterone-to-renin ratio).
   - Assess severity of stenosis:
     - Duplex ultrasound: Visualize kidney size and blood flow.
     - MR/CT angiography: Require contrast media, risk of nephrotoxicity.
@@ -36,13 +36,13 @@
     - Statin treatment for cholesterol.
     - Antiplatelet agent (e.g., aspirin) to reduce thrombus risk.
     - Antihypertensives (ACE inhibitors like captopril first-line).
-      - Monitor ACE inhibitor use to prevent acute kidney injury.
+      - Monitor ACE inhibitor use to prevent [[Acute kidney injury]].
 
 - **Management (Non-Prescribing)**:
   - Lifestyle modifications:
     - Weight loss.
     - Low-salt diet.
-    - Smoking cessation.
+    - [[Smoking cessation]].
   - Severe Cases: Revascularisation procedures (transluminal balloon angioplasty, percutaneous stenting, renal artery reconstruction).
 
 - **References**:

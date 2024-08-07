@@ -1,5 +1,7 @@
 ---
 title: Notes
+tags:
+  - hidden
 ---
 
 ## MSRA Notes
@@ -24,10 +26,10 @@ title: Notes
 > - [[Atherosclerosis]]
 > - [[Infective Endocarditis]]
 > - [[Gestational Hypertension]]
-> - [[Congenital Heart Defects]]
+> - [[Congenital Heart Defect]]
 > - [[Marfan's Syndrome]]
 > - [[Cardiac Tamponade]]
-> - [[Coronary heart disease Treatment based on risk]]
+> - [[Coronary artery disease]]
 
 >[!derma]-  Dermatology
 > - [[msra/Dermatology/Acne vulgaris|Acne vulgaris]]
@@ -112,7 +114,6 @@ title: Notes
 > - [[msra/Endocrinology and Metabolic/Hyperthyroidism|Hyperthyroidism]]
 > - [[msra/Endocrinology and Metabolic/Hypothyroidism|Hypothyroidism]]
 > - [[Osteoporosis]]
-> - [[Pathophysiology]]
 > - [[Phaeochromocytoma]]
 > - [[Polycystic kidney disease]]
 > - [[Primary hyperparathyroidism]]
@@ -473,7 +474,7 @@ title: Notes
 > - [[Gingivitis and periodontitis]]
 > - [[Glandular fever (infectious mononucleosis)]]
 > - [[Glaucoma]]
-> - [[Gonorrhoea]]
+> - [[Gonorrhoea Summary]]
 > - [[Gout]]
 > - [[Greater trochanteric pain syndrome]]
 > - [[Gynaecological cancers - recognition and referral]]

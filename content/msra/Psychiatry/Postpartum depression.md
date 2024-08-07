@@ -1,12 +1,12 @@
 ### Postpartum Depression Overview
 
-- **Definition**: Development of depression or bipolar affective disorder after childbirth. 
+- **Definition**: Development of [[msra/Psychiatry/Depression|Depression]] or [[Bipolar affective disorder]] after childbirth. 
 - **DSM-5 Note**: Not recognized independently; can document onset within 4 weeks post-childbirth, but symptoms may arise up to 12 months later.
 
 ### Aetiology Factors
 
 - **Psychosocial**: Life events, poor support, low income, adverse circumstances.
-- **Psychiatric Illness**: Higher likelihood in women with anxiety/depression history.
+- **Psychiatric Illness**: Higher likelihood in women with anxiety/[[msra/Psychiatry/Depression|Depression]] history.
 - **Personality Traits**: Low self-esteem, neuroticism.
 - **Genetic Factors**: Family history of psychiatric illness.
 - **Sleep Deprivation**: Link between infant sleep, maternal fatigue, depressive symptoms.
@@ -36,11 +36,11 @@
 ### Investigations
 
 - **Screening Questions**:
-  - Feelings of depression or hopelessness in the past month.
+  - Feelings of [[msra/Psychiatry/Depression|Depression]] or hopelessness in the past month.
   - Lack of interest in activities.
 - **Assessment Tools**: 
-  - Edinburgh Postnatal Depression Scale.
-  - Mood Disorder Questionnaire for mania/hypomania. 
+  - Edinburgh Postnatal [[msra/Psychiatry/Depression|Depression]] Scale.
+  - Mood Disorder Questionnaire for [[Mania]]/hypomania. 
 
 - **Tests to Rule Out Organic Causes**:
   - Thyroid Function Tests
@@ -62,7 +62,7 @@
 
 ### Management (Prescribing)
 
-- **Antidepressants**: Common for postpartum depression; breastfeeding impacts choice.
+- **Antidepressants**: Common for postpartum [[msra/Psychiatry/Depression|Depression]]; breastfeeding impacts choice.
 - **Breastfeeding Considerations**: 
   - Sertraline is preferred; avoid fluoxetine and citalopram.
   - Monitor for hypomanic/manic episodes if prescribed.

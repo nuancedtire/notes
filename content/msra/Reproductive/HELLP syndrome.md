@@ -1,8 +1,8 @@
 In any pregnant patient in the second half of their pregnancy or immediately post-partum, present with RUQ or epigastric pain, consider **HELLP syndrome** unless proven otherwise.
 
 ### Overview
-- **Definition**: Severe form of pre-eclampsia characterized by:
-  - Hypertension
+- **Definition**: Severe form of [[Pre-Eclampsia]] characterized by:
+  - [[msra/Cardiovascular/Hypertension|Hypertension]]
   - Proteinuria
   - RUQ/epigastric pain
   - Headache, nausea, vomiting, malaise
@@ -21,14 +21,14 @@ In any pregnant patient in the second half of their pregnancy or immediately pos
 - Risk Factors:
   - Maternal age >35 years
   - Multiple gestation
-  - Previous pre-eclampsia
-  - Chronic hypertension
+  - Previous [[Pre-Eclampsia]]
+  - Chronic [[msra/Cardiovascular/Hypertension|Hypertension]]
   - Diabetes mellitus
-  - Obesity
+  - [[Obesity]]
 - Symptoms:
   - RUQ/epigastric tenderness/pain
   - Malaise, nausea
-  - Headache/visual disturbance
+  - Headache/[[Visual disturbance]]
   - Brisk tendon reflexes
   - Oedema
   - Jaundice
@@ -61,8 +61,8 @@ In any pregnant patient in the second half of their pregnancy or immediately pos
 - **If platelet count <25 x 10⁹/L**: Platelet transfusion (consider anti-D immunoglobulin).
 
 ### Management (Non-Prescribing)
-- **Obesity**: Educate on weight loss pre-pregnancy if possible.
-- **Chronic Hypertension**: Stress importance of medication compliance.
+- **[[Obesity]]**: Educate on weight loss pre-pregnancy if possible.
+- **Chronic [[msra/Cardiovascular/Hypertension|Hypertension]]**: Stress importance of medication compliance.
 
 ### References
 BMJ best practice. (2019). _HELLP syndrome._ [Link](https://bestpractice.bmj.com/topics/en-gb/1000). Last accessed 3rd November 2020.

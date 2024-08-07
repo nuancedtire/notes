@@ -50,7 +50,7 @@
 
 #### Dosing Guidelines:
 - **Age <50-60 years, no cardiac history**: 1.6 micrograms/kg/day; adjust to normalize TSH.
-- **Age >60 years or with coronary artery disease**: Start with 25-50 micrograms/day; adjust every 6-8 weeks.
+- **Age >60 years or with [[coronary artery disease]]**: Start with 25-50 micrograms/day; adjust every 6-8 weeks.
 - **Sub-clinical (TSH>10mIU/L)**: Start with 1 microgram/kg/day; adjust to normalize TSH.
 
 #### Monitoring:

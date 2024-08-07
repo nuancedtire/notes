@@ -3,12 +3,12 @@
 - **Acronym Breakdown:**
   - **T** - Toxoplasmosis
   - **O** - Other (includes:
-    - Syphilis
+    - [[msra/Reproductive/Syphilis|Syphilis]]
     - Varicella-zoster
     - Parvovirus B19
     - HIV
     - Listeria)
-  - **R** - Rubella
+  - **R** - [[msra/Infectious Disease/Rubella|Rubella]]
   - **C** - Cytomegalovirus
   - **H** - Herpes simplex
 

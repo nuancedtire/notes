@@ -1,7 +1,7 @@
 ## Mammary Paget’s Disease Overview
 
 - Rare skin cancer (intraepithelial adenocarcinoma) of the nipple and adjacent areolar skin.
-- Often associated with breast cancer (invasive carcinoma or ductal carcinoma in situ).
+- Often associated with [[Breast cancer]] (invasive carcinoma or ductal carcinoma in situ).
 
 ### Diagnosis
 
@@ -21,14 +21,14 @@
 
 - Diagnosis via history and examination; confirmed by skin biopsy showing Paget cells.
 - Skin biopsy can also reveal underlying breast carcinoma.
-- Underlying breast cancer may need further investigation using mammography or breast MRI.
+- Underlying [[Breast cancer]] may need further investigation using mammography or breast MRI.
 
 ### Management
 
 #### Pharmacological
 
-- No specific pharmacological treatment for mammary Paget’s disease.
-- Medical treatment may be necessary for underlying breast cancer.
+- No specific pharmacological treatment for mammary [[Paget’s disease]].
+- Medical treatment may be necessary for underlying [[Breast cancer]].
 
 #### Non-prescribing
 

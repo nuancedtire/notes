@@ -7,7 +7,7 @@
 ### **Diagnosis**
 **Risk Factors:**
 - Diabetes
-- Hypertension
+- [[msra/Cardiovascular/Hypertension|Hypertension]]
 - Glomerular disease (e.g., glomerulonephritis)
 - Nephrotoxic drugs (e.g., aminoglycosides)
 - Systemic disorders (e.g., myeloma, lupus)
@@ -23,9 +23,9 @@
   - Nausea/vomiting
 
 **Anaemia Symptoms:**
-- Breathlessness
+- [[Breathlessness]]
 - Fatigue
-- Palpitations
+- [[Palpitations]]
 
 ### **Investigations**
 **Initial Tests:**
@@ -60,6 +60,6 @@
 
 ### **References**
 - Kumar and Clark’s Clinical Medicine 2017
-- BMJ Best Practice: Chronic Kidney Disease
-- NICE: Chronic Kidney Disease - [NICE CKS](https://cks.nice.org.uk/chronic-kidney-disease)
-- AAFP: Chronic Kidney Disease - [AAFP Resource](https://www.aafp.org/afp/2017/1215/p776.html)
+- BMJ Best Practice: [[cks/Chronic kidney disease|Chronic kidney disease]]
+- NICE: [[cks/Chronic kidney disease|Chronic kidney disease]] - [NICE CKS](https://cks.nice.org.uk/chronic-kidney-disease)
+- AAFP: [[cks/Chronic kidney disease|Chronic kidney disease]] - [AAFP Resource](https://www.aafp.org/afp/2017/1215/p776.html)

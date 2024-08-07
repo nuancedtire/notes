@@ -2,7 +2,7 @@
 - Pelvic inflammatory disease (PID) is an acute infection affecting the upper female genital tract.
 - Common initiating pathogens:
   - Neisseria gonorrhoeae
-  - Chlamydia trachomatis
+  - [[Chlamydia]] trachomatis
   - Mycoplasma genitalium
 - Other potential organisms: Escherichia coli, anaerobes, and streptococci.
 
@@ -35,17 +35,17 @@
 
 ### Complications
 - Chronic pelvic pain
-- Ectopic pregnancy
+- [[msra/Reproductive/Ectopic Pregnancy|Ectopic Pregnancy]]
 - Subfertility
 - Hydrosalpinx
 - Recurrent PID
-- Ovarian cancer
+- [[msra/Reproductive/Ovarian cancer|Ovarian cancer]]
 
 ### Clinical Presentation
 - Asymptomatic
 - Symptomatic (acute):
   - Lower abdominal pain (acute)
-  - New, purulent vaginal discharge
+  - New, purulent [[msra/Reproductive/Vaginal discharge|Vaginal discharge]]
   - Abnormal menstrual bleeding
   - Dyspareunia
   - Fever and chills
@@ -59,7 +59,7 @@
   - Cervical motion, uterine, or adnexal tenderness
 - Additional findings suggesting PID:
   - Fever (>38.3°C)
-  - Mucopurulent vaginal discharge
+  - Mucopurulent [[msra/Reproductive/Vaginal discharge|Vaginal discharge]]
   - Cervical friability
   - Abundant white blood cells in vaginal secretions
   - Positive tests for N. gonorrhoeae, C. trachomatis, or M. genitalium.
@@ -70,9 +70,9 @@
   - Full blood count, CRP, ESR
   - Endocervical and high vaginal swabs
   - Urine cultures
-  - Microscopy of vaginal discharge
+  - Microscopy of [[msra/Reproductive/Vaginal discharge|Vaginal discharge]]
   - Nucleic acid amplification tests for STIs
-  - Serologic testing for syphilis, HIV, hepatitis B
+  - Serologic testing for [[msra/Reproductive/Syphilis|Syphilis]], HIV, [[msra/Gastroenterology and Nutrition/Hepatitis B|Hepatitis B]]
   - Pelvic ultrasound to assess complications.
 
 ### Management (Prescribing)
@@ -100,7 +100,7 @@
 - Ensure medication adherence and lifestyle modifications.
 - Avoid sexual activity until treatment completion and symptom resolution.
 - Contact tracing of male partners recommended.
-- Barrier contraception is advised; avoid IUDs due to higher infection/ectopic risk.
+- Barrier [[Contraception]] is advised; avoid IUDs due to higher infection/ectopic risk.
 
 ### Follow-Up
 - Review for clinical improvement within 72 hours; reconsider hospitalization or further investigations if necessary. 

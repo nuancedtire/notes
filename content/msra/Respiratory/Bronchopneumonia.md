@@ -1,7 +1,7 @@
 ## Bronchopneumonia Overview
 
-- **Definition**: Subtype of pneumonia with inflammation of bronchi, bronchioles, and alveoli.
-- **Alternate Name**: Lobular pneumonia (patchy consolidations in lobules).
+- **Definition**: Subtype of [[Pneumonia]] with inflammation of bronchi, bronchioles, and alveoli.
+- **Alternate Name**: Lobular [[Pneumonia]] (patchy consolidations in lobules).
 - **Population**: More common in children and the elderly.
 - **Cause**: Usually bacterial infections, often hospital-acquired (HAP).
 
@@ -20,16 +20,16 @@
 
 ### Clinical Presentation
 - High-grade fever
-- Productive cough
+- Productive [[Cough]]
 - Shortness of breath
 - Tachypnoea
 - Possible [[chest pain]], pleurisy, haemoptysis
-- Complication: Can evolve into sepsis
+- Complication: Can evolve into [[Sepsis]]
 
 ### Potential Causes of Bronchopneumonia/HAP
 
 #### Gram-positive Organisms
-- Staphylococcus aureus (including MRSA)
+- Staphylococcus aureus (including [[MRSA]])
 - Streptococcus pneumoniae (less common)
 
 #### Gram-negative Organisms
@@ -45,7 +45,7 @@
 
 - Based on clinical suspicion with symptoms such as:
   - Fever
-  - Productive cough with purulent sputum
+  - Productive [[Cough]] with purulent sputum
   - Leucocytosis/leukopenia
   - Dyspnoea
   - Decreased oxygen saturation
@@ -93,8 +93,8 @@
 - **Hospitalization Criteria**: Use CURB-65.
 
 ### Prevention
-- Smoking cessation
-- Vaccination against influenza and pneumococcus. 
+- [[Smoking cessation]]
+- Vaccination against [[Influenza]] and pneumococcus. 
 
 ### References
 - [Radiopaedia on Bronchopneumonia](https://radiopaedia.org/articles/bronchopneumonia)

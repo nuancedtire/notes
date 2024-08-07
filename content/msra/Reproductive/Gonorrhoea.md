@@ -10,7 +10,7 @@
 
 - **Transmission and Diagnosis**
   - Many conditions are sexually transmitted but not all.
-  - Asymptomatic infections (e.g., gonorrhoea, chlamydia) make diagnosis challenging.
+  - Asymptomatic infections (e.g., gonorrhoea, [[Chlamydia]]) make diagnosis challenging.
   - Diagnosis often through screening and contact tracing.
 
 - **Prevalence and Locations**
@@ -19,7 +19,7 @@
 
 - **Impact on Quality of Life**
   - Conditions can lead to:
-    - Infertility
+    - [[Infertility]]
     - Sexual dysfunction
     - Social stigma
   - Importance of identification and treatment.
@@ -28,4 +28,4 @@
 - Oxford Handbook of Clinical Medicine, 9th edition, pages 416-419
 - Oxford Handbook of Clinical Specialties, 9th edition, page 256
 - NICE – CKS: Herpes simplex – genital [Link](https://cks.nice.org.uk/herpes-simplex-genital)
-- NICE – CKS: Syphilis [Link](https://cks.nice.org.uk/syphilis)
+- NICE – CKS: [[msra/Reproductive/Syphilis|Syphilis]] [Link](https://cks.nice.org.uk/syphilis)

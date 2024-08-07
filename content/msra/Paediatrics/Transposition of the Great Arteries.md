@@ -1,7 +1,7 @@
 ## Transposition of the Great Arteries (TGA)
 
 ### Overview
-- **TGA** is a cyanotic congenital heart defect.
+- **TGA** is a cyanotic [[congenital heart defect]].
 - In **dextro TGA**, the left and right outflow tracts are transposed:
   - Aorta from the **right ventricle**
   - Pulmonary artery from the **left ventricle**

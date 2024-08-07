@@ -34,15 +34,15 @@
 
 ## Investigations
 - **General**: Blood tests and imaging not routinely indicated for panic disorder.
-- **Additional Tests**: Thyroid function, blood glucose, ECG for other symptoms; toxicology screen for substance-related issues.
+- **Additional Tests**: Thyroid function, blood glucose, [[ECG]] for other symptoms; toxicology screen for substance-related issues.
 
 ## Emergency Management
 ### Symptoms of Panic Attack
-- Palpitations, sweating, shortness of breath, [[chest pain]], nausea, dizziness, fear of dying/losing control, numbness/tingling.
+- [[Palpitations]], sweating, shortness of breath, [[chest pain]], nausea, dizziness, fear of dying/losing control, numbness/tingling.
 
 ### Patient Management
 - **During Attack**: Encourage deep breathing and remind the attack will pass; educate that attacks are not life-threatening.
-- **ED Protocol**: Provide oxygen, monitor vitals, possibly perform an ECG if presenting with [[chest pain]], dyspnoea, or palpitations.
+- **ED Protocol**: Provide oxygen, monitor vitals, possibly perform an [[ECG]] if presenting with [[chest pain]], dyspnoea, or [[Palpitations]].
 
 ## Non-Prescribing Management
 - **Education**: Reassure that panic attacks are frightening but not dangerous.

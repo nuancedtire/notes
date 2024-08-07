@@ -42,7 +42,7 @@
 - Anaphylaxis  
 - Suspected sepsis  
 - ECG indicating cardiac arrhythmia or myocardial infarction  
-- Clinical signs of pulmonary embolus, pneumothorax, pulmonary oedema, superior vena cava obstruction, or cardiac tamponade  
+- Clinical signs of pulmonary embolus, pneumothorax, pulmonary oedema, superior vena cava obstruction, or [[cardiac tamponade]]  
 - Severe or life-threatening asthma attack or COPD exacerbation  
 
 **Management in Emergency Situations**  

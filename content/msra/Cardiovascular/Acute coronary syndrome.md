@@ -2,7 +2,7 @@
 
 #### Types of ACS
 - **Unstable Angina (UA):**
-  - Evidence of myocardial damage (e.g., [[chest pain]] at rest)
+  - Evidence of myocardial damage (e.g., [[Chest pain]] at rest)
   - No changes in cardiac biomarkers.
   
 - **Non ST-elevation Myocardial Infarction (NSTEMI):**

@@ -28,7 +28,7 @@
     - **Sclerotherapy**: Injecting irritants to scar and close the cyst; limited use due to risks.
   - **Surgery (Spermatocelectomy)**: Removal of the spermatocele; done as an outpatient.
     - Not definitive; recurrence in 10-25% of cases.
-    - Risk of epididymis damage and infertility; caution in young men.
+    - Risk of epididymis damage and [[Infertility]]; caution in young men.
 
 **References**
 - [Urology Health](https://www.urologyhealth.org/urologic-conditions/spermatoceles)

@@ -77,7 +77,7 @@
 - Imaging: mammography for those >40, ultrasound for younger patients, CT scans if spread is suspected.
 
 ### Biopsy Findings
-- Grade, Ki-67 proliferation index, receptor status (oestrogen, progesterone, HER2).
+- Grade, Ki-67 proliferation [[index]], receptor status (oestrogen, progesterone, HER2).
 
 ### Management
 

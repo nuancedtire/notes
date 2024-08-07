@@ -1,11 +1,11 @@
 ## COPD Overview
 
 - **Definition**: Progressive lung disease primarily caused by cigarette smoking.
-- **Symptoms**: Shortness of breath, chronic cough, decreased quality of life. 
+- **Symptoms**: Shortness of breath, chronic [[Cough]], decreased quality of life. 
 
 ## Diagnosis
 
-- **Suspicion**: Significant smoking history + symptoms (dyspnoea, chronic cough).
+- **Suspicion**: Significant smoking history + symptoms (dyspnoea, chronic [[Cough]]).
 - **Formal Diagnosis**: Requires irreversible airflow obstruction on spirometry.
 - **Key Symptoms**:
   - Decreased exercise tolerance
@@ -17,7 +17,7 @@
   - Increased work of breathing
   - Wheeze
   - Basal crepitations
-  - Signs of right heart failure (cor pulmonale).
+  - Signs of right [[Heart failure]] (cor pulmonale).
 
 ### Causes
 
@@ -32,7 +32,7 @@
 - **Blood Tests**:
   - α1-antitrypsin levels (indications as above)
   - FBC
-- **ECG/Echocardiogram**: If cor pulmonale suspected.
+- **[[ECG]]/Echocardiogram**: If cor pulmonale suspected.
 
 ## Emergency Management
 
@@ -40,18 +40,18 @@
 - **Management**:
   - Assess vital signs.
   - Controlled oxygen therapy (Venturi mask, target SpO2 88-92%).
-  - Blood gas, CXR, ECG, FBC, inflammatory markers, U&Es.
+  - Blood gas, CXR, [[ECG]], FBC, inflammatory markers, U&Es.
   - Bronchodilator nebulizer.
   - Short-term oral steroids.
-  - Consider antibiotics for pneumonia.
+  - Consider antibiotics for [[Pneumonia]].
   - Non-invasive/invasive ventilation for respiratory acidosis.
   - Early pulmonary rehabilitation.
 
 ## Non-prescribing Management 
 
-- **Smoking Cessation**: Most critical intervention to slow disease progression.
+- **[[Smoking cessation]]**: Most critical intervention to slow disease progression.
 - **Rehabilitation**: Pulmonary rehab and dietary changes improve symptoms and quality of life.
-- **Vaccinations**: One-off pneumococcal vaccine; annual influenza vaccine.
+- **Vaccinations**: One-off pneumococcal vaccine; annual [[Influenza]] vaccine.
 - **Surgery**: Lung transplantation for young patients with severe disease.
 
 ## Prescribing Management
@@ -59,7 +59,7 @@
 - **Initial Treatment**: Short-acting beta-2 agonists (SABA) or short-acting muscarinic antagonists (SAMA) if non-pharmacological interventions fail.
 - **Options**:
   - Prophylactic antibiotics in select patients.
-  - Mucolytics (e.g., carbocysteine) for chronic productive cough.
+  - Mucolytics (e.g., carbocysteine) for chronic productive [[Cough]].
 
 ### Management Steps by Severity
 

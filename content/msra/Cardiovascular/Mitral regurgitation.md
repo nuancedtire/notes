@@ -56,7 +56,7 @@
   - Indicated if diagnosis is unclear.
   
 - **Cardiac catheterization**:
-  - Check coronary artery disease risks.
+  - Check [[coronary artery disease]] risks.
   - Assess pulmonary hypertension.
 
 ### Management (Pharmacological)

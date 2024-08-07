@@ -6,7 +6,7 @@
 
 - **Causative Conditions**: 
   - Psychiatric disorders
-  - Organic causes (e.g., delirium)
+  - Organic causes (e.g., [[Delirium]])
 
 - **Diagnosis Factors**:
   - Features of the presentation

@@ -5,13 +5,13 @@
 
 - **Risk Factors**:
   - Cryptorchidism: 10-40x increased risk.
-  - Down Syndrome: 50x increased risk.
-  - Personal or family history of testicular cancer.
+  - [[Down Syndrome]]: 50x increased risk.
+  - Personal or family history of [[Testicular Cancer]].
   - Environmental exposure to certain chemicals (organophosphates, organochlorines).
-  - Testicular atrophy (due to mumps, trauma, hormones).
+  - Testicular atrophy (due to [[msra/Infectious Disease/Mumps|Mumps]], trauma, hormones).
 
 - **Diagnosis**:
-  - Presentation: Unilateral, asymptomatic testicular mass; sometimes infertility; pain is rare.
+  - Presentation: Unilateral, asymptomatic testicular mass; sometimes [[Infertility]]; pain is rare.
   - Physical Exam: Firm masses attached to testes, may have hydroceles.
   - Definitive Diagnosis: Histopathological analysis required.
 

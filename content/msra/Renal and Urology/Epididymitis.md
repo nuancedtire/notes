@@ -7,10 +7,10 @@
   - Dysuria.
 
 ### Diagnosis
-- **Symptoms**: Gradual onset of unilateral scrotal pain and swelling over a few days.
+- **Symptoms**: Gradual onset of unilateral [[Scrotal pain and swelling]] over a few days.
 - **Aetiology**: 
   - **Pre-pubertal boys & men >35**: Enteric organisms (e.g., *Escherichia coli*, *Enterococcus faecalis*).
-  - **Sexually active males**: Sexually transmitted organisms (*Chlamydia trachomatis*, *Neisseria gonorrhoeae*, *Mycoplasma genitalium*).
+  - **Sexually active males**: Sexually transmitted organisms (*[[Chlamydia]] trachomatis*, *Neisseria gonorrhoeae*, *Mycoplasma genitalium*).
   - **Non-infectious causes**: Medications (e.g., amiodarone), systemic conditions (e.g., Behçet’s syndrome).
 
 ### Investigations

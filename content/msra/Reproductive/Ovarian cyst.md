@@ -13,7 +13,7 @@
 
 ### Signs
 - **Adnexal Mass**: Common finding.
-- **Hirsutism**: Particularly in PCOS.
+- **[[Hirsutism]]**: Particularly in PCOS.
 
 ### Causes
 #### Premenopausal
@@ -22,7 +22,7 @@
 - **Theca Lutein Cysts**: Formed with high hCG levels; associated with multiple gestations.
 - **Dermoid Cysts**: Common in ages 20-40; may contain hair/teeth.
 - **PCOS**: Multiple persistent cysts; linked to chronic anovulation.
-- **Endometriotic Cysts**: Associated with endometriosis; "chocolate cyst."
+- **Endometriotic Cysts**: Associated with [[msra/Reproductive/Endometriosis|Endometriosis]]; "chocolate cyst."
 - **Pregnancy**: Cysts can develop to support early pregnancy.
 - **Severe Pelvic Infections**: Result in pus-filled cysts.
 - **Non-cancerous Growths**: Generally benign.
@@ -36,7 +36,7 @@
 1. **General Evaluation**: Confirm presence and location of mass; assess symptoms.
 2. **Focused Evaluation**: Requires immediate treatment if presenting with acute symptoms.
 3. **Evaluation for Malignancy**: If initial evaluation raises suspicions.
-   - **History**: Evaluate risk factors (e.g., BRCA mutations, infertility).
+   - **History**: Evaluate risk factors (e.g., BRCA mutations, [[Infertility]]).
    - **Physical Examination**: Check for signs of malignancy.
 
 ### Different Diagnoses Based on Presentation
@@ -45,7 +45,7 @@
 - **Malignant**: Ovarian carcinomas, germ cell tumours.
 
 #### Non-gynaecological Causes
-- **Benign**: Constipation, pelvic abscess.
+- **Benign**: [[Constipation]], pelvic abscess.
 - **Malignant**: Appendiceal neoplasms, bowel neoplasms.
 
 #### Acute Abdomen
@@ -55,7 +55,7 @@
 - **Pelvic Ultrasound**: First-line diagnostic tool.
 - **MRI/CT Scan**: Additional imaging as needed.
 - **Urine Pregnancy Test**: To rule out pregnancy.
-- **Tumour Markers**: CA-125 for ovarian cancer, others for germ cell tumours.
+- **Tumour Markers**: CA-125 for [[msra/Reproductive/Ovarian cancer|Ovarian cancer]], others for germ cell tumours.
 - **Surgery**: For histological evaluation or treatment, especially in postmenopausal women.
 
 ## Management

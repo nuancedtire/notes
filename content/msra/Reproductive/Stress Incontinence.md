@@ -2,7 +2,7 @@
 
 - **Causes**:
   - Bladder neck defects leading to sphincter deficiency
-  - Urethral hypermobility (often due to weak pelvic floor muscles, post-childbirth or post-menopause)
+  - Urethral hypermobility (often due to weak pelvic floor muscles, post-childbirth or post-[[msra/Reproductive/Menopause|Menopause]])
   - Neuromuscular defects affecting sphincter function
   - Prostatectomy in men
   - Pelvic weakness from surgery or pregnancy in women
@@ -11,11 +11,11 @@
 
 - **Risk Factors**:
   - Pregnancy/childbirth
-  - Age/menopause
-  - Obesity
-  - Constipation
+  - Age/[[msra/Reproductive/Menopause|Menopause]]
+  - [[Obesity]]
+  - [[Constipation]]
   - Pelvic organ prolapse
-  - Chronic cough/smoking
+  - Chronic [[Cough]]/smoking
   - Excessive weight lifting
 
 ## Diagnosis
@@ -41,7 +41,7 @@
 
 ## Management (Non-Prescribing)
 - **First-line strategies**:
-  - Lifestyle modifications: weight loss, reduced caffeine, smoking cessation
+  - Lifestyle modifications: weight loss, reduced caffeine, [[Smoking cessation]]
   - Behavior therapy: pelvic floor exercises and vaginal weights
 
 - **Surgical Options**:

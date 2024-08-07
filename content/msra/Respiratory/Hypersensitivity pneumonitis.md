@@ -7,7 +7,7 @@
 
 - **Challenges**: No gold standard test; diagnosis is difficult.
 - **Signs and Symptoms**:
-  - Non-specific: dry cough, progressive breathlessness, weight loss, fever, myalgia.
+  - Non-specific: dry [[Cough]], progressive [[Breathlessness]], weight loss, fever, myalgia.
   - Lung Auscultation: inspiratory crackles, variable squeaks.
 - **Types of Antigens**: Various antigens cause HP; e.g., Farmer’s lung (mouldy straw) is prevalent in the UK.
 - **Classification**: Acute and chronic forms based on the clinical feature timeline.

@@ -3,7 +3,7 @@ Ectopic pregnancies are characterized by an embryo implanting outside the endome
 ### Diagnosis
 - Consider ectopic in women of reproductive age with abdominal pain/vaginal bleeding until a negative pregnancy test rules out pregnancy.
 - Common symptoms include:
-  - Amenorrhoea (6-8 weeks)
+  - [[Amenorrhoea]] (6-8 weeks)
   - Pain (mild, unilateral, lower abdomen)
   - Vaginal bleeding (small, brown)
   - Diarrhoea/vomiting
@@ -14,9 +14,9 @@ Ectopic pregnancies are characterized by an embryo implanting outside the endome
 
 #### Risk Factors
 Present in 25-50% of women:
-- Prior ectopic pregnancy (recurrence 10-20%)
+- Prior [[cks/Ectopic pregnancy|Ectopic pregnancy]] (recurrence 10-20%)
 - Assisted reproductive technology
-- Pelvic inflammatory disease, endometriosis
+- [[msra/Reproductive/Pelvic inflammatory disease|Pelvic inflammatory disease]], [[msra/Reproductive/Endometriosis|Endometriosis]]
 - Pelvic/tubal surgery
 - Smoking
 
@@ -37,7 +37,7 @@ Collaborate with a consultant gynaecologist considering patient circumstances. M
 2. **Medical**
    - Methotrexate IM to halt tissue growth.
    - Monitoring: Serial hCG levels, FBC, LFT.
-   - Alcohol abstinence for 2 weeks and contraception for 3 months (methotrexate is teratogenic).
+   - Alcohol abstinence for 2 weeks and [[Contraception]] for 3 months (methotrexate is teratogenic).
 
 3. **Surgical**
    - **Stable:** Laparoscopic salpingectomy; salpingostomy if other tube is damaged.

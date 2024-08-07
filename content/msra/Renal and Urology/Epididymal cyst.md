@@ -1,7 +1,7 @@
 ## Epididymal Cysts Overview
 
 - **Definition**: Benign, painless, fluid-filled swellings from the head of the epididymis.
-- **Spermatocele**: Cyst containing spermatozoa.
+- **[[Spermatocele]]**: Cyst containing spermatozoa.
 - **Characteristics**:
   - Often multiloculated and bilateral.
   - Common in men over 40 years.
@@ -19,12 +19,12 @@
 
 - **Transillumination**: Cysts and spermatoceles typically transilluminate.
 - **Differential Diagnosis**: 
-  - Testicular cancer
-  - Varicocele
-  - Hydrocele
+  - [[Testicular Cancer]]
+  - [[Varicocele]]
+  - [[Hydrocele]]
   - Haematocele 
 
-- **Ultrasound**: Recommended if lesion cannot be transilluminated to distinguish between spermatocele and solid mass.
+- **Ultrasound**: Recommended if lesion cannot be transilluminated to distinguish between [[Spermatocele]] and solid mass.
 
 ### Management (Prescribing)
 
@@ -35,7 +35,7 @@
 - **Small Cysts**: Clinically insignificant and usually painless.
 - **Surgical Excision**: Considered for large or uncomfortable cysts but has risks like:
   - Post-surgical scarring.
-  - Potential obstruction of ducts leading to infertility.
+  - Potential obstruction of ducts leading to [[Infertility]].
 
 - **Needle Aspiration**: Temporary treatment option, only removes fluid; does not address underlying issue, fluid may re-accumulate quickly.
 

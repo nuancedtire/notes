@@ -20,7 +20,7 @@
   - Possible lower abdominal pain.
 - **Examination Findings**: 
   - Swollen, erythematous, and tender scrotum.
-  - Possible reactive hydrocele.
+  - Possible reactive [[Hydrocele]].
   - Affected testicle may be high riding or horizontal.
   - Absent cremasteric reflex.
   - Scrotal elevation doesn't relieve pain.

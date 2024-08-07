@@ -58,7 +58,7 @@
 ### Non-Prescribing
 
 - **Lifestyle Modifications**:
-  - Elevation of legs or compression stockings for mild oedema.
+  - Elevation of legs or [[Compression stockings]] for mild oedema.
   - Sodium or fluid intake restriction may be necessary.
 
 ## References

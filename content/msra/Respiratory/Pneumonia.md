@@ -10,7 +10,7 @@
   - **Age** ≥ 65 → 1 point
 
 ### Diagnostic Challenges
-- 50% of community-acquired pneumonia cases lack a diagnosed causative organism.
+- 50% of [[Community-Acquired Pneumonia]] cases lack a diagnosed causative organism.
 - Empirical antibiotic therapy is recommended to cover both typical and atypical organisms.
 
 ### Antibiotic Treatment
@@ -29,5 +29,5 @@
 
 ### References
 - Oxford Handbook of Clinical Medicine (10th edition) – p.166-167
-- Prina E et al. Community-Acquired Pneumonia. *The Lancet.* 368, 1097-1108. (2015). [DOI:10.1016/S0140-6736(15)60733-4](https://doi.org/10.1016/S0140-6736(15)60733-4)
+- Prina E et al. [[Community-Acquired Pneumonia]]. *The Lancet.* 368, 1097-1108. (2015). [DOI:10.1016/S0140-6736(15)60733-4](https://doi.org/10.1016/S0140-6736(15)60733-4)
 - Respiratory Infections. Microbiology Nuts & Bolts (Website). [Link](http://www.microbiologynutsandbolts.co.uk/respiratory-infections.html)

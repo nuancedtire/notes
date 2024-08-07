@@ -27,7 +27,7 @@ Peripheral artery disease (PAD) mainly impacts the legs, leading to limb ischaem
 
 ## **Management**
 
-- **Cardiovascular Risk Optimization**: Important due to association with coronary artery disease and cerebrovascular disease. Consider:
+- **Cardiovascular Risk Optimization**: Important due to association with [[coronary artery disease]] and cerebrovascular disease. Consider:
 
   - Smoking cessation
   - Weight management

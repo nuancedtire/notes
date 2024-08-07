@@ -7,7 +7,7 @@ Testicular cancer:
 ### Types of Testicular Cancer
 
 1. **Germ Cell Tumours (GCTs)**: 95% of cases
-   - Pure seminoma
+   - Pure [[Seminoma]]
    - Non-seminomatous germ cell tumours (NSGCTs): teratomas, embryonal carcinomas, choriocarcinomas, yolk sac tumours.
 
 2. **Non-Germ Cell Tumours (NGCTs)**: Includes Leydig and Sertoli cell tumours.
@@ -24,20 +24,20 @@ Testicular cancer:
 - Gynaecomastia
 - Metastatic symptoms:
   - Back pain (seminomas to para-aortic nodes)
-  - Cough/dyspnoea (teratomas to lungs)
+  - [[Cough]]/dyspnoea (teratomas to lungs)
   - Oedema in lower extremities (vena cava obstruction)
   - Pathological neck lymph nodes (left supraclavicular)
 
 #### Differential Diagnosis
 
-- Conditions: epididymo-orchitis, torsion, hydrocele, haematocele, cysts, infections, lymphoma.
+- Conditions: epididymo-orchitis, torsion, [[Hydrocele]], haematocele, cysts, infections, lymphoma.
 
 #### Risk Factors
 
 - Cryptorchidism
 - Family history
 - HIV infection
-- Male infertility
+- Male [[Infertility]]
 - Previous testicular cancer
 - Infantile hernia
 - Klinefelter’s syndrome
@@ -84,7 +84,7 @@ Testicular cancer:
 ### Management (Prescribing)
 
 - **Surgery:** Standard treatment (radical orchidectomy).
-- **Stage I Seminoma:** 
+- **Stage I [[Seminoma]]:** 
   - Surveillance
   - Single-dose adjuvant carboplatin
   - Adjuvant radiotherapy
@@ -92,7 +92,7 @@ Testicular cancer:
 - **Metastatic Disease:** 
   - Chemotherapy/radiotherapy post-orchidectomy.
   
-- **Stage IIA Seminoma:** Chemotherapy + radiotherapy.
+- **Stage IIA [[Seminoma]]:** Chemotherapy + radiotherapy.
 - **Stage IIC/D:** Chemotherapy only.
 - **Stage III/IV:** Cisplatin-based chemotherapy (guideline-driven).
 

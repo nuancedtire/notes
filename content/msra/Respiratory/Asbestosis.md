@@ -9,7 +9,7 @@ Symptoms
 - Asymptomatic for 20-30 years post-exposure
 - Progressive shortness of breath and hypoxaemia (initially with exercise, later at rest)
 - Possible benign unilateral pleural effusion before fibrosis
-- Cough, wheezing, and sputum production are typically not present
+- [[Cough]], wheezing, and sputum production are typically not present
 
 ### Diagnosis
 - Based on asbestos exposure history and imaging findings
@@ -20,8 +20,8 @@ Symptoms
 
 #### Differential Diagnosis
 - Idiopathic pulmonary fibrosis
-- Usual interstitial pneumonia (UIP)
-- Hypersensitivity pneumonitis
+- Usual interstitial [[Pneumonia]] (UIP)
+- [[Hypersensitivity pneumonitis]]
 
 ### Investigations
 
@@ -54,7 +54,7 @@ Symptoms
 ### Management (Prescribing)
 - No pharmacological treatment
 - Oxygen therapy for hypoxaemia/severe dyspnea
-- Prevention and supportive care; pneumococcus and influenza vaccinations recommended
+- Prevention and supportive care; pneumococcus and [[Influenza]] vaccinations recommended
 
 ### Management (Non-Prescribing)
 - Surgery (scar tissue removal/lung transplant) for severe cases

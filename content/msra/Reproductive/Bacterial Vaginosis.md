@@ -1,4 +1,4 @@
-Bacterial Vaginosis (BV) Overview:
+[[cks/Bacterial vaginosis|Bacterial vaginosis]] (BV) Overview:
 - **Not an STI** but primarily affects sexually active females.
 - **Most common vaginal infection** in women.
 - Caused by overgrowth of **anaerobic bacteria** (e.g., Gardnerella vaginalis) leading to depletion of **aerobic lactobacilli** and increased vaginal pH.
@@ -16,7 +16,7 @@ Bacterial Vaginosis (BV) Overview:
 
 ### Diagnosis:
 - **Asymptomatic in 50%** of cases.
-- Common symptom: **fishy/offensive smelling vaginal discharge**.
+- Common symptom: **fishy/offensive smelling [[msra/Reproductive/Vaginal discharge|Vaginal discharge]]**.
 - Other symptoms:
   - Burning sensation during urination
   - Mild itching (usually without vaginal erythema)

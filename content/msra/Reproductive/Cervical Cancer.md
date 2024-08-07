@@ -10,7 +10,7 @@
   - Incidence peaks at ages 30-34 after rising from 20-24, then declines.
   
 - **Clinical Features**: 
-  - Blood-stained vaginal discharge, abnormal bleeding (postcoital, intermenstrual, postmenopausal).
+  - Blood-stained [[msra/Reproductive/Vaginal discharge|Vaginal discharge]], abnormal bleeding (postcoital, intermenstrual, postmenopausal).
   - On pelvic exam: inflamed cervix, bleeding on contact, possible mass.
 
 - **Risk Factors**: 
@@ -23,7 +23,7 @@
   - Urgent referral if cervical cancer suspected.
   - Indicators: white staining with acetic acid, abnormal vascularity.
   - **Biopsy** for histological diagnosis; pre-invasive disease termed cervical intraepithelial neoplasia (CIN).
-  - Most common invasive cancers: squamous cell carcinoma (80%), adenocarcinoma.
+  - Most common invasive cancers: [[Squamous cell carcinoma]] (80%), adenocarcinoma.
 
 ### Screening
 
@@ -61,4 +61,4 @@
 
 - Impey and Child, _Obstetrics and Gynaecology_ 5th (2017) – Chapter 4
 - Cervical cancer - BMJ Best Practice: [Link](https://bestpractice.bmj.com/topics/en-gb/259)
-- Cervical screening: programme overview: [Link](https://www.gov.uk/guidance/cervical-screening-programme-overview)
+- [[Cervical screening]]: programme overview: [Link](https://www.gov.uk/guidance/cervical-screening-programme-overview)

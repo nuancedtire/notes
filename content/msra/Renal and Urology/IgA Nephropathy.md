@@ -12,12 +12,12 @@
 #### Symptoms
 - Blood in urine (haematuria)
 - Frothy urine (proteinuria)
-- High blood pressure (hypertension)
+- High blood pressure ([[msra/Cardiovascular/Hypertension|Hypertension]])
 - Swelling in hands and feet
 
 - Early stages may be asymptomatic, often detected years later.
 - Invisible haematuria detected via tests; visible post URTI or gastrointestinal infection (24-48 hrs after).
-- Elevated serum creatinine indicates chronic kidney disease (CKD).
+- Elevated serum creatinine indicates [[msra/Renal and Urology/Chronic Kidney Disease|Chronic Kidney Disease]] (CKD).
 - Definitive diagnosis requires a kidney biopsy.
 
 ### Investigations
@@ -30,7 +30,7 @@
 
 ### Management (Prescribing)
 - Focus on slowing disease progression and preventing complications.
-- Control hypertension (<130/80 mmHg) to reduce renal damage and proteinuria.
+- Control [[msra/Cardiovascular/Hypertension|Hypertension]] (<130/80 mmHg) to reduce renal damage and proteinuria.
   
 #### Medications
 - **ACE Inhibitors** (e.g., Captopril)

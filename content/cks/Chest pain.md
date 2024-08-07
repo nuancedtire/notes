@@ -10,7 +10,7 @@
 - Other cardiac conditions: 
   - Dissecting thoracic aneurysm
   - Pericarditis
-  - Cardiac tamponade
+  - [[Cardiac tamponade]]
   - Myocarditis
   - Acute congestive cardiac failure
   - Arrhythmias

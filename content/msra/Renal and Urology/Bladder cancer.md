@@ -12,7 +12,7 @@
 - HPV 16 infection
 - Chronic inflammation of the urinary tract
 - Iatrogenic factors (e.g., pelvic irradiation, cyclophosphamide)
-- _Schistosoma haematobium_ infection (increases risk for squamous cell carcinoma)
+- _Schistosoma haematobium_ infection (increases risk for [[Squamous cell carcinoma]])
 
 ## Diagnosis
 ### Symptoms 

@@ -11,7 +11,7 @@ Asthma Overview
 ### Symptoms
 - Dyspnoea
 - High-pitched wheezing
-- Cough
+- [[Cough]]
 - Symptoms are intermittent, often worse at night, and relieved by bronchodilators or trigger elimination.
 
 ### Demographics
@@ -25,9 +25,9 @@ Asthma Overview
 - *If unclear, consider treatment trial.*
 
 #### Differential Diagnosis
-- COPD (persistent, irreversible)
+- [[COPD]] (persistent, irreversible)
 - Exertional dyspnoea
-- Cardiomyopathies, coronary artery disease, pericarditis
+- Cardiomyopathies, [[coronary artery disease]], pericarditis
 - Bronchial carcinoma
 - Aspiration of foreign body
 

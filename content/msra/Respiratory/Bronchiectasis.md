@@ -8,22 +8,22 @@
   - Tracheobronchomalacia
   - Focal airway obstruction
   - Smoking
-  - Genetic diseases (e.g., cystic fibrosis, primary ciliary dyskinesia)
+  - Genetic diseases (e.g., [[Cystic Fibrosis]], primary ciliary dyskinesia)
 
 - **Pathophysiology**: 
   - Abnormal inflammatory response (predominantly neutrophilic) leads to airway dilatation and destruction.
 
 - **Complications**: 
-  - Can occur with rheumatoid arthritis and Sjögren's syndrome; the reason for this association is unknown.
+  - Can occur with [[msra/Musculoskeletal/Rheumatoid Arthritis|Rheumatoid Arthritis]] and Sjögren's syndrome; the reason for this association is unknown.
 
 - **Clinical Features**:
-  - Persistent cough with purulent sputum (often daily)
+  - Persistent [[Cough]] with purulent sputum (often daily)
   - Viscous and darker sputum during acute exacerbations
   - Symptoms: dyspnea, wheezing, [[chest pain]]
   - History of multiple respiratory infections
 
 ### Diagnosis
-- **Clinical Diagnosis**: Based on symptoms like persistent productive cough.
+- **Clinical Diagnosis**: Based on symptoms like persistent productive [[Cough]].
 - **Imaging**: 
   - **MDCT**: Confirms airway dilatation.
     - Criteria for diagnosis:
@@ -72,7 +72,7 @@
 
 ### Management (Non-Prescribing)
 - **Address contributing conditions**: 
-  - Dysphagia or GORD treatment to prevent aspirations.
+  - Dysphagia or [[GORD]] treatment to prevent aspirations.
 - **Airway Clearance Therapy**: 
   - Physical techniques or devices for secretions clearance.
 - **Surgical Options**: 

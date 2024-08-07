@@ -7,7 +7,7 @@
 ### Diagnosis (Indications)
 
 Reasons for prescribing oral contraceptives:
-- **Contraception**
+- **[[Contraception]]**
 - **Menstrual-related disorders:**
   - Dysmenorrhea
   - Menorrhagia
@@ -15,7 +15,7 @@ Reasons for prescribing oral contraceptives:
   - Menstrual-related migraines
 - Anaemia from heavy bleeding
 - Acne
-- Polycystic Ovary Syndrome (PCOS)
+- [[Polycystic ovary syndrome]] (PCOS)
 - Menopausal symptoms
 
 ### Combined Oral Contraceptive Pill (COCP)
@@ -46,8 +46,8 @@ Reasons for prescribing oral contraceptives:
 
 #### Risks:
 - **Venous thromboembolism (VTE):** Small risk; benefits generally outweigh
-- **Myocardial infarction and stroke:** Minimal risk
-- **Breast cancer:** Minimal risk
+- **Myocardial infarction and [[Stroke]]:** Minimal risk
+- **[[Breast cancer]]:** Minimal risk
 
 #### UK Medical Eligibility Criteria (UKMEC):
 - UKMEC 1: No restriction
@@ -57,9 +57,9 @@ Reasons for prescribing oral contraceptives:
   - BMI >35 kg/m²
 - UKMEC 4: Unacceptable health risk 
   - >35 years and smoke >15 cigarettes/day
-  - Migraine with aura
-  - History of thromboembolic disease, stroke, ischaemic heart disease
-  - Breast cancer 
+  - [[msra/Neurology/Migraine|Migraine]] with aura
+  - History of thromboembolic disease, [[Stroke]], ischaemic heart disease
+  - [[Breast cancer]] 
 
 ### Progesterone Only Pill (POP)
 

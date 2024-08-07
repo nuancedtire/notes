@@ -24,7 +24,7 @@
 - Reduced antegrade urine flow (e.g., spinal cord injury, urinary obstruction)
 - Promotion of retrograde ascent (e.g., short female urethra, indwelling catheter)
 - Immunocompromised states (e.g., steroid use, HIV, diabetes)
-- Factors promoting bacterial colonization (e.g., menopause, renal calculi).
+- Factors promoting bacterial colonization (e.g., [[msra/Reproductive/Menopause|Menopause]], [[Renal Calculi]]).
 
 ## Diagnosis
 
@@ -33,18 +33,18 @@
   - Loin pain
   - Nausea and vomiting
   - Fever
-- Lower urinary tract infection symptoms and haematuria may be present.
+- [[Lower Urinary Tract Infection]] symptoms and haematuria may be present.
 
 ### Differential Diagnosis
 - Ruptured AAA
-- Ectopic pregnancy
+- [[msra/Reproductive/Ectopic Pregnancy|Ectopic Pregnancy]]
 - PID
 - Acute [[cholecystitis]]
-- Renal calculi
+- [[Renal Calculi]]
 
 ## Investigations
 - **Pre-Antibiotic**: Urine culture, urinalysis (nitrites, leucocytes), pregnancy test (in women).
-- **Hospital Admission**: Indicated in seriously ill patients (e.g., sepsis), dehydration, pregnancy, and complications.
+- **Hospital Admission**: Indicated in seriously ill patients (e.g., [[Sepsis]]), dehydration, pregnancy, and complications.
 - **Baseline Blood Tests**: Assess renal function and inflammation.
 - **Imaging**:
   - *Renal Ultrasound*: To check for obstruction.
@@ -53,7 +53,7 @@
 ## Management
 
 ### Prescribing
-- **Initial Assessment**: A-E assessment, resuscitation, sepsis six guidelines as needed.
+- **Initial Assessment**: A-E assessment, resuscitation, [[Sepsis]] six guidelines as needed.
 - **Antibiotics**: Based on local guidelines, common choices include:
   - Cephalexin
   - Trimethoprim

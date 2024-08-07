@@ -2,7 +2,7 @@
 - Accumulation of air in the pleural space.
 - Classifications:
   - Primary spontaneous pneumothorax (PSP) - No underlying lung disease; often due to ruptured subpleural blebs.
-  - Secondary spontaneous pneumothorax (SSP) - Complication of underlying lung diseases, e.g., COPD, tuberculosis, cystic fibrosis, lung malignancy.
+  - Secondary spontaneous pneumothorax (SSP) - Complication of underlying lung diseases, e.g., [[COPD]], [[msra/Respiratory/Tuberculosis|Tuberculosis]], [[Cystic Fibrosis]], lung malignancy.
   - Traumatic pneumothorax - Due to penetrating/non-penetrating trauma; iatrogenic (e.g., from medical procedures).
 
 **Diagnosis**
@@ -30,11 +30,11 @@
   - Arterial Blood Gas: May be abnormal (e.g., SpO2<92%).
 
 **Management of Emergencies**
-- **Tension Pneumothorax:**
+- **[[Tension pneumothorax]]:**
   - Life-threatening; increased pressure interferes with venous return.
   - Symptoms: Severe dyspnoea, cyanosis, tachycardia, labored respiration.
   - Immediate intervention required (decompression).
-  - Tracheal deviation: Late sign, not solely indicative of tension pneumothorax.
+  - Tracheal deviation: Late sign, not solely indicative of [[Tension pneumothorax]].
 
 - **Decompression Technique:**
   - Insert cannula into 4th or 5th intercostal space (mid-axillary line).

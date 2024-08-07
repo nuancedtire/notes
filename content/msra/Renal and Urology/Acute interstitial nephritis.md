@@ -1,4 +1,4 @@
-- **Causes of Acute Interstitial Nephritis**:
+- **Causes of Acute [[Interstitial Nephritis]]**:
   - Common: Allergic reactions to medications.
   - Other causes: Infections, systemic diseases.
   - Common drugs: 
@@ -7,7 +7,7 @@
     - PPIs
     - Antibiotics (penicillins, cephalosporins, sulphonamides)
   - **Onset**: Can present days/weeks after starting medication.
-  - **Systemic causes**: SLE, sarcoidosis, Sjogren’s syndrome.
+  - **Systemic causes**: SLE, [[msra/Musculoskeletal/Sarcoidosis|Sarcoidosis]], Sjogren’s syndrome.
 
 - **Diagnosis**:
   - Symptoms can be sudden or gradual.

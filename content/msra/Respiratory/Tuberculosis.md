@@ -28,12 +28,12 @@
   - Fever
   - Night sweats
   - Anorexia
-  - Cough (with or without hemoptysis)
+  - [[Cough]] (with or without hemoptysis)
   - Dyspnea
   - Enlarged, firm, non-tender lymph nodes (cervical/supraclavicular)
   - Headache (CNS TB)
   - Backache (Pott’s disease)
-  - Symptoms of Addison’s disease
+  - Symptoms of [[Addison’s disease]]
 
 **Diagnosis:**
 

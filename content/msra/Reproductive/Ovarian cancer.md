@@ -30,10 +30,10 @@
 |------------------|-----------------------|  
 | Increasing age    | Previous pregnancy     |  
 | Early menarche    | History of breastfeeding|  
-| Late menopause     | Oral contraceptive use |  
-| Infertility       | Tubal ligation        |  
+| Late [[msra/Reproductive/[[msra/Reproductive/Menopause|Menopause]]|[[msra/Reproductive/Menopause|Menopause]]]]     | Oral contraceptive use |  
+| [[Infertility]]       | Tubal ligation        |  
 | Nulliparity       | Bilateral salpingo-oophorectomy |  
-| Endometriosis     | Hysterectomy          |  
+| [[msra/Reproductive/[[msra/Reproductive/Endometriosis|Endometriosis]]|[[msra/Reproductive/Endometriosis|Endometriosis]]]]     | Hysterectomy          |  
 | Hereditary syndromes (BRCA, Lynch) |  |  
 
 ## Clinical Presentation
@@ -42,7 +42,7 @@
   - Pelvic/abdominal pain
   - Bloating, early satiety, abdominal distension
   - Incidental pelvic/adnexal mass
-  - Vaginal discharge (clear or blood-tinged)
+  - [[msra/Reproductive/Vaginal discharge|Vaginal discharge]] (clear or blood-tinged)
   - Menstrual disturbances
   - Weight loss, appetite loss
 
@@ -60,7 +60,7 @@
   - Malignant: Epithelial carcinoma, borderline neoplasm, malignant germ cell tumors, malignant stromal tumors.
 
 - **Tubal**: 
-  - Benign: Ectopic pregnancy, hydrosalpinx.
+  - Benign: [[msra/Reproductive/Ectopic Pregnancy|Ectopic Pregnancy]], hydrosalpinx.
   - Malignant: Epithelial carcinoma, serous tubal intraepithelial neoplasia.
 
 - **Extra-ovarian/Tubal**: 
@@ -69,7 +69,7 @@
 
 ### Non-Gynaecological 
 
-- **Benign**: Constipation, appendiceal abscess, diverticular abscess, pelvic abscess, pelvic kidney.
+- **Benign**: [[Constipation]], appendiceal abscess, diverticular abscess, pelvic abscess, pelvic kidney.
 - **Malignant**: Appendiceal neoplasm, bowel neoplasm, metastasis (breast, colon, lymphoma).
 
 ## Modes of Spread

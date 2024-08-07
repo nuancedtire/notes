@@ -46,7 +46,7 @@
   
 #### Anticoagulation
 - Options: Apixaban, dabigatran, rivaroxaban, edoxaban, warfarin.
-- Recommended for CHA2DS2-VASc score of 2 or more.
+- Recommended for [[CHA2DS2-VASc score]] of 2 or more.
 
 #### Rate Control
 - First-line for most patients; exceptions include reversible causes or new-onset AF.

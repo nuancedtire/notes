@@ -3,7 +3,7 @@
 - **Definition**: Lung cancer (bronchogenic carcinoma) originates in airways or lung parenchyma. 
 - **Types**:
   - **Small cell lung cancer (SCLC)** 
-  - **Non-small cell lung cancer (NSCLC)** (95% of cases): Includes adenocarcinoma, squamous cell carcinoma, large cell carcinoma. 
+  - **Non-small cell lung cancer (NSCLC)** (95% of cases): Includes adenocarcinoma, [[Squamous cell carcinoma]], large cell carcinoma. 
   - **Other cell types**: ~5% of cases.
 
 ### Diagnosis
@@ -15,13 +15,13 @@
   3. Paraneoplastic phenomena
 
 **Intrathoracic effects**:
-- Cough
+- [[Cough]]
 - Haemoptysis
 - [[Chest pain]]
 - Dyspnoea
 - Hoarseness (due to recurrent laryngeal nerve involvement)
 - Pleural disease (malignant pleural effusion)
-- Pancoast syndrome (shoulder pain, Horner syndrome, bony destruction)
+- Pancoast syndrome ([[Shoulder pain]], Horner syndrome, bony destruction)
 
 **Extrathoracic metastasis** (commonly affected organs):
 - Liver
@@ -32,7 +32,7 @@
 **Paraneoplastic phenomena**:
 - Hypercalcemia (due to bone metastasis or PTHrP secretion)
 - Cushing syndrome (ectopic ACTH production)
-- SIADH (commonly in SCLC leading to hyponatraemia)
+- SIADH (commonly in SCLC leading to [[Hyponatraemia]])
 - Neurologic syndromes (e.g., Lambert-Eaton myasthenic syndrome)
 
 **Risk Factors**:

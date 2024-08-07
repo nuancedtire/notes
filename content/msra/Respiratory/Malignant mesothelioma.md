@@ -11,7 +11,7 @@ Malignant mesothelioma is an aggressive epithelial neoplasm that originates from
 #### Symptoms
 - **Common Symptoms:**
   - Shortness of breath
-  - Dry, non-productive cough
+  - Dry, non-productive [[Cough]]
   - [[Chest pain]]
 
 - **Non-specific Symptoms:**

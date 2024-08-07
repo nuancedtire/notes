@@ -1,12 +1,12 @@
 Menopause is a natural event in women, occurring between ages 45-55, with an average age of 51. It results in the permanent cessation of menstruation and ovulatory function due to the depletion of oocytes.
 
 ### Diagnosis
-- **Clinical diagnosis**: Made retrospectively after 12 months of amenorrhoea in an appropriate age woman.
+- **Clinical diagnosis**: Made retrospectively after 12 months of [[Amenorrhoea]] in an appropriate age woman.
 - **Symptoms**: Vary considerably; can appear before, during, or years after menopause:
   - Menstrual irregularity
   - Vasomotor symptoms (hot flushes, night sweats)
   - Vaginal symptoms (dyspareunia, discomfort, dryness)
-  - Mood changes (irritability, mood swings, recurrence of depression)
+  - Mood changes (irritability, mood swings, recurrence of [[msra/Psychiatry/Depression|Depression]])
   - Sleep disturbances
   - Loss of libido
   - Other (brittle nails, thick skin, hair loss, mild memory impairment, aches)
@@ -14,14 +14,14 @@ Menopause is a natural event in women, occurring between ages 45-55, with an ave
 ### Investigations
 - Not required for women over 45 with symptoms.
 - Serum FSH recommended for women under 40 or aged 40-45; raised levels indicate menopause.
-- Urine pregnancy test for sexually active women with amenorrhoea.
+- Urine pregnancy test for sexually active women with [[Amenorrhoea]].
 
 ### Management (prescribing)
 - **Indication**: Pharmacological treatment if symptoms affect quality of life.
 - **Hormone Replacement Therapy (HRT)**:
-  - Reduces risk of osteoporosis and cardiovascular disease but may increase:
+  - Reduces risk of [[Osteoporosis]] and cardiovascular disease but may increase:
     - Thrombosis risk (especially in first year)
-    - Breast cancer risk (minimally, with combined therapy)
+    - [[Breast cancer]] risk (minimally, with combined therapy)
   
 - **Contraindications for HRT**:
   - Oestrogen-dependent malignancies
@@ -56,8 +56,8 @@ Menopause is a natural event in women, occurring between ages 45-55, with an ave
 - **Exercise and Weight Management**: Important for cardiovascular health.
 
 - **Screening recommendations**:
-  - Cervical screening: Every 3 years (25-49), every 5 years until 65
-  - Breast cancer screening: Every 3 years after 50
+  - [[Cervical screening]]: Every 3 years (25-49), every 5 years until 65
+  - [[Breast cancer]] screening: Every 3 years after 50
 
 ### References
 - [BMJ Best Practice on Menopause](https://bestpractice.bmj.com/topics/en-gb/194/aetiology)

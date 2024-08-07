@@ -18,7 +18,7 @@ Candidiasis Overview
 - Contributing factors:
   - Increased estrogen (e.g., pregnancy)
   - Antibiotics/steroids
-  - Moisture (e.g., nappy rash, burns)
+  - Moisture (e.g., [[Nappy rash]], [[Burns]])
 
 ### Infection Progression
 - Local infections from flora imbalances cause candida overgrowth.

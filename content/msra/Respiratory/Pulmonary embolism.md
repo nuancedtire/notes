@@ -7,7 +7,7 @@
 ### Diagnosis
 
 #### Symptoms:
-- Acute breathlessness
+- Acute [[Breathlessness]]
 - Pleuritic [[chest pain]]
 - Haemoptysis
 - Dizziness
@@ -52,7 +52,7 @@
 - **CT Pulmonary Angiography (CTPA)**: First-line imaging; sensitive and specific.
 - **Ventilation-Perfusion (V/Q) Scan**: Alternative if CTPA is unavailable.
 - **Serum D-dimers**: High sensitivity, low specificity; use in low probability patients (Wells <4). Negative results exclude PE.
-- **Other Investigations**: ECG, Chest X-ray, ABG.
+- **Other Investigations**: [[ECG]], Chest X-ray, ABG.
 
 ### Management of Emergencies
 
@@ -71,8 +71,8 @@
 
 #### Unstable Patients
 - Systemic thrombolytic therapy (e.g., tPA) followed by anticoagulation.
-- **Absolute Contraindications**: Intracranial neoplasm, recent intracranial/spinal trauma/surgery, history of hemorrhagic stroke, active bleeding.
-- **Relative Contraindications**: Severe uncontrolled hypertension, recent non-hemorrhagic stroke, recent surgery, pregnancy.
+- **Absolute Contraindications**: Intracranial neoplasm, recent intracranial/spinal trauma/surgery, history of hemorrhagic [[Stroke]], active bleeding.
+- **Relative Contraindications**: Severe uncontrolled [[msra/Cardiovascular/Hypertension|Hypertension]], recent non-hemorrhagic [[Stroke]], recent surgery, pregnancy.
 - **Embolectomy**: Indicated for unstable patients contraindicated for thrombolytics.
 
 ### Management (Long Term)

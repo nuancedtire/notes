@@ -14,7 +14,7 @@ _Chlamydia trachomatis_
 **Female Infection:**  
 - Up to 80% are asymptomatic.  
 - Symptoms:  
-  - Altered vaginal discharge  
+  - Altered [[msra/Reproductive/Vaginal discharge|Vaginal discharge]]  
   - Intermenstrual/postcoital bleeding (IMB/PCB)  
   - Superficial dyspareunia  
   - Low abdominal pain  
@@ -24,8 +24,8 @@ _Chlamydia trachomatis_
   - Erythema  
   - Friability  
 - Complications:  
-  - Pelvic inflammatory disease (PID) in 10-20% of untreated cases  
-  - PID can cause chronic pelvic pain, increase risk of ectopic pregnancy, and infertility.  
+  - [[msra/Reproductive/Pelvic inflammatory disease|Pelvic inflammatory disease]] (PID) in 10-20% of untreated cases  
+  - PID can cause chronic pelvic pain, increase risk of [[msra/Reproductive/Ectopic Pregnancy|Ectopic Pregnancy]], and [[Infertility]].  
 
 **Diagnosis Method:**  
 - Nucleic acid amplification tests (NAAT) on urine or vaginal swab samples.  
@@ -50,5 +50,5 @@ _Chlamydia trachomatis_
 - Contact tracing and partner notification.  
 
 ### References  
-NICE Guidelines: Chlamydia - uncomplicated genital  
+NICE Guidelines: [[Chlamydia - uncomplicated genital]]  
 [_NICE Guidelines Link_](https://cks.nice.org.uk/chlamydia-uncomplicated-genital#!topicSummary)

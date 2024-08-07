@@ -2,9 +2,9 @@
 
 ### Overview
 - **Definition**: Disease characterized by multiple cysts in the kidneys.
-- **Inheritance Patterns**:
+- **[[Inheritance patterns]]**:
   - **Recessive**: Short life expectancy; often fatal before childhood.
-  - **Dominant** (Adult Polycystic Kidney Disease): Longer life expectancy; onset in adulthood; more prevalent in the population.
+  - **Dominant** (Adult [[Polycystic kidney disease]]): Longer life expectancy; onset in adulthood; more prevalent in the population.
 
 ### Mutations
 - Associated chromosomes: **4 and 16**.
@@ -13,18 +13,18 @@
 
 ### Diagnosis
 - **Common symptoms**:
-  - Hypertension
+  - [[msra/Cardiovascular/Hypertension|Hypertension]]
   - Flank pain
   - Renal failure
   - Repeated UTIs
-  - Renal calculi
+  - [[Renal Calculi]]
 - **Extra-renal manifestations**:
   - Hepatic cysts (most common)
   - Cerebral berry aneurysms
-  - Morning headaches (due to hypertension)
-  - Signs of mitral valve prolapse
+  - Morning headaches (due to [[msra/Cardiovascular/Hypertension|Hypertension]])
+  - Signs of [[Mitral Valve Prolapse]]
   - Left ventricular hypertrophy
-  - Diverticular disease
+  - [[msra/Gastroenterology and Nutrition/Diverticular Disease|Diverticular Disease]]
   - Abdominal hernias
 
 ### Investigations
@@ -36,7 +36,7 @@
 
 ### Management (Prescribing)
 - **Medications**:
-  - **ACE inhibitors** or **Angiotensin Receptor Blockers**: Treat hypertension, slow progression to end-stage renal disease.
+  - **ACE inhibitors** or **Angiotensin Receptor Blockers**: Treat [[msra/Cardiovascular/Hypertension|Hypertension]], slow progression to end-stage renal disease.
   - **Tolvaptan**: Slows progression of renal cysts.
 - **UTI Management**: Prompt treatment reduces risk of renal infection.
 - **Avoid**: Chemicals harmful to kidneys (e.g., sulphonamides, NSAIDs, ADH).

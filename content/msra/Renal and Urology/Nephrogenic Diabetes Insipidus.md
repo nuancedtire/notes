@@ -14,11 +14,11 @@
 ### Causes of NDI
 1. **Common causes**:
    - **Lithium therapy**: Prevents aquaporin 2 channel expression.
-   - **Hypercalcaemia**: Disrupts medulla saltiness, affecting water diffusion.
+   - **[[Hypercalcaemia]]**: Disrupts medulla saltiness, affecting water diffusion.
    - **Hypokalaemia**: Milder NDI, pathophysiology not fully understood.
 
 2. **Rare causes**:
-   - Sickle cell disease trait
+   - [[msra/Haematology/Sickle cell disease|Sickle cell disease]] trait
    - Renal amyloidosis
    - Sjögren’s syndrome
    - Post-obstructive uropathy
@@ -31,7 +31,7 @@
 ### Symptoms of NDI
 - **Polyuria**: Increased urination, often nocturia.
 - **Polydipsia**: Intense thirst.
-- Symptoms of underlying causes (e.g., lithium toxicity, hypercalcaemia).
+- Symptoms of underlying causes (e.g., lithium toxicity, [[Hypercalcaemia]]).
 
 ### Diagnosis
 - **Initial Tests**: Measure Plasma and Urine Osmolality.

@@ -2,14 +2,14 @@
 - **Definition**: Occurs secondary to poor gas exchange; hypoxia < 8kPa.
 - **Types**:
   - **Type 1**: Low/normal pCO₂ (V/Q mismatch).
-    - Conditions: pneumonia, ARDS, pulmonary edema, moderate/severe asthma.
+    - Conditions: [[Pneumonia]], ARDS, pulmonary edema, moderate/severe [[msra/Respiratory/Asthma|Asthma]].
   - **Type 2**: High pCO₂ (alveolar hypoventilation, with or without V/Q mismatch).
-    - Causes: COPD, obstructive sleep apnea, asthma exacerbations, neuromuscular diseases (e.g., myasthenia gravis, Guillain-Barre), sedative drug effects.
+    - Causes: [[COPD]], obstructive sleep apnea, [[msra/Respiratory/Asthma|Asthma]] exacerbations, neuromuscular diseases (e.g., [[Myasthenia gravis]], Guillain-Barre), sedative drug effects.
 
 ### Sarcoidosis
 - **Overview**: Multisystem granulomatous disease, often pulmonary, with unknown etiology; prevalent in Scandinavians and Afro-Caribbeans.
 - **Diagnosis**: Clinical and radiographic picture, no definitive test.
-  - **Acute**: Lofgren syndrome - erythema nodosum, bihilar lymphadenopathy, uveitis, arthritis, parotitis.
+  - **Acute**: Lofgren syndrome - erythema nodosum, bihilar lymphadenopathy, [[Uveitis]], arthritis, parotitis.
   - **Chronic**: Negative tuberculin test, high serum ACE, hypercalciuria, hypercalcemia + positive biopsy.
 
 ### Legionnaires’ Disease
@@ -19,7 +19,7 @@
   - First-line: Sputum cultures and urinary antigen testing (sputum culture most accurate).
 
 ### Pulmonary Hypertension
-- **Causes**: Various; most commonly idiopathic pulmonary arterial hypertension.
+- **Causes**: Various; most commonly idiopathic pulmonary arterial [[msra/Cardiovascular/Hypertension|Hypertension]].
 - **Genetics**: Familial version (autosomal dominant); reduced penetrance (50% genotype presence, but fewer manifest symptoms).
 - **Treatment**: 
   - Classes of medications: 
@@ -28,7 +28,7 @@
     - Phosphodiesterase V inhibitors (e.g., sildenafil).
 
 ### References
-- BMJ best practice articles on asthma, COPD, congestive heart failure.
+- BMJ best practice articles on [[msra/Respiratory/Asthma|Asthma]], [[COPD]], congestive [[Heart failure]].
 - BMJ Best Practice. Legionella Infection: [Link](https://bestpractice.bmj.com/topics/en-gb/414)
 - Cunha BA, Burillo A, Bouza E. Legionnaires’ Disease. _The Lancet_. 387, 376-385 (2016). [DOI](https://doi.org/10.1016/S0140-6736(15)60078-2)
 - Oxford Handbook of Clinical Medicine, 9th Edition: p. 180 (causes of respiratory failure).

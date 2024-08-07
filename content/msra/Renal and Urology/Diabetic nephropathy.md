@@ -3,7 +3,7 @@ Diabetic nephropathy (diabetic kidney disease)
 - Leading cause of end-stage renal failure worldwide
 - Characterized by:
   - Slowly progressive albuminuria
-  - Hypertension
+  - [[msra/Cardiovascular/Hypertension|Hypertension]]
   - Decrease in glomerular filtration rate (GFR)
 - Typically manifests:
   - Later in type I diabetes (over 30 years post-diagnosis)
@@ -12,12 +12,12 @@ Diabetic nephropathy (diabetic kidney disease)
 ### Diagnosis
 - Often asymptomatic until advanced; recommend regular screening
 - Use urine analysis for microalbuminuria
-- Diabetic retinopathy may indicate early microvascular disease (presents as decreased vision, neovascularization, dot hemorrhages)
+- [[Diabetic retinopathy]] may indicate early microvascular disease (presents as decreased vision, neovascularization, dot hemorrhages)
 - Risk factors:
   - Poor glycemic control
   - Cigarette smoking
   - Dyslipidemia
-  - Hypertension
+  - [[msra/Cardiovascular/Hypertension|Hypertension]]
 - Increased cardiovascular disease risk; possible early death from cardiac disorders
 
 - Advanced symptoms may include:
@@ -42,14 +42,14 @@ Diabetic nephropathy (diabetic kidney disease)
 
 ### Management (Non-Prescribing)
 - Lifestyle modifications:
-  - Smoking cessation
+  - [[Smoking cessation]]
   - Improved nutrition
   - Reduced dietary protein
   - Weight loss
 - End-stage renal disease:
   - Renal replacement therapy (peritoneal dialysis or hemodialysis)
   - Consider simultaneous pancreas-kidney transplant
-  - Account for other diabetes complications (blindness, autonomic neuropathy, peripheral vascular disease)
+  - Account for other diabetes complications (blindness, autonomic neuropathy, peripheral [[Vascular]] disease)
 
 ### References
 - Kumar and Clark’s Clinical Medicine 2017

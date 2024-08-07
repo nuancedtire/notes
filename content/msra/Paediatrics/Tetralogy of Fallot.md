@@ -1,6 +1,6 @@
 ### Tetralogy of Fallot (TOF)
 
-- **Incidence**: 1 in 2,000-3,500 newborns; most common cyanotic congenital heart defect.
+- **Incidence**: 1 in 2,000-3,500 newborns; most common cyanotic [[congenital heart defect]].
 - **Characterized by four major abnormalities**:
   1. **Pulmonary stenosis** (mild to atresia; right ventricular outflow tract obstruction)
   2. **Overriding aorta**

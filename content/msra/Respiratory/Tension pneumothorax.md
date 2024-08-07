@@ -1,6 +1,6 @@
 ### Tension Pneumothorax Overview
 - **Cause**: Gradual air build-up in the pleural space due to a one-way valve effect from chest/lung injury.
-- **Common Cause**: Mechanical ventilation in a patient with a simple pneumothorax prior to chest drain insertion.
+- **Common Cause**: Mechanical ventilation in a patient with a simple [[Pneumothorax]] prior to chest drain insertion.
 - **Other Causes**: Blunt trauma, penetrating injury, central venous catheter placement, lung biopsy.
 - **Effects**: Lung collapse, hypoxia, mediastinal shift, impaired venous return to heart.
 - **Emergency**: Immediate treatment required to prevent traumatic arrest.
@@ -17,12 +17,12 @@
   - Tracheal deviation away from affected side
   - Hypotension, loss of consciousness (if severe)
 
-- **Considerations**: Symptoms may overlap with cardiac tamponade/diaphragmatic injuries.
+- **Considerations**: Symptoms may overlap with [[cardiac tamponade]]/diaphragmatic injuries.
 
 ### Investigations
 - **Clinical Diagnosis**: Imaging may confirm but should not delay treatment.
 - **Imaging Findings**:
-  - Hemidiaphragmatic depression
+  - Hemidiaphragmatic [[msra/Psychiatry/Depression|Depression]]
   - Ipsilateral flattening of heart border
   - Contralateral mediastinal deviation
 
@@ -46,7 +46,7 @@
   - Insert cannula in 4th/5th intercostal space (mid-axillary line) per ATLS guidelines.
   - Both 2nd intercostal space (mid-clavicular line) and 4th/5th are accepted per Resuscitation Council guidelines.
   
-- **Confirmation**: Immediate rush of air denotes diagnosis change from tension to simple pneumothorax.
+- **Confirmation**: Immediate rush of air denotes diagnosis change from tension to simple [[Pneumothorax]].
 
 - **Follow-Up**: If unsuccessful, insert chest drain in the safe triangle for pleural space management.
   - Safe triangle boundaries: lateral border of pectoralis major, anterior border of latissimus dorsi, and horizontal line at nipple base with apex in the axilla.

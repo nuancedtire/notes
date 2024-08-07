@@ -1,14 +1,14 @@
 Interstitial nephritis is an inflammatory autoimmune kidney disorder affecting the kidney interstitium. It has two primary forms:
 
-- **Acute Interstitial Nephritis (AIN)**
+- **[[Acute interstitial nephritis]] (AIN)**
 - **Chronic Tubulointerstitial Nephritis (CTIN)**
 
 ### Causes
 - **AIN (40-60% due to hypersensitivity to medications)**:
   - Drug-induced (e.g., beta-lactam antibiotics, NSAIDs, proton-pump inhibitors)
-  - Infections (e.g., sepsis, pyelonephritis)
+  - Infections (e.g., [[Sepsis]], pyelonephritis)
   - Viral infections (e.g., EBV, HIV)
-  - Immune disorders (e.g., SLE, sarcoidosis)
+  - Immune disorders (e.g., SLE, [[msra/Musculoskeletal/Sarcoidosis|Sarcoidosis]])
 
 - **CTIN**:
   - Long-term analgesic use (e.g., 5-ASA, lithium)
@@ -22,7 +22,7 @@ Interstitial nephritis is an inflammatory autoimmune kidney disorder affecting t
   - Fatigue, loss of appetite, nausea/vomiting, fever, rash, eosinophilia, elevated IgE levels
 
 - **Features of CTIN**:
-  - Flank pain, hematuria, hypertension, anemia, proteinuria, typical age 30-70
+  - Flank pain, hematuria, [[msra/Cardiovascular/Hypertension|Hypertension]], anemia, proteinuria, typical age 30-70
 
 - Diagnosis involves:
   - Urinalysis (hematuria/proteinuria)
@@ -38,10 +38,10 @@ Interstitial nephritis is an inflammatory autoimmune kidney disorder affecting t
 #### Prescribing
 - Discontinue offending medications immediately.
 - High-dose steroids (e.g., prednisolone) may aid recovery from AIN.
-- For CTIN, manage hypertension with ACE inhibitors or ARBs, but do not combine these medications, and avoid during pregnancy.
+- For CTIN, manage [[msra/Cardiovascular/Hypertension|Hypertension]] with ACE inhibitors or ARBs, but do not combine these medications, and avoid during pregnancy.
 
 #### Non-Prescribing
-- Regular exercise, healthy diet, weight control, and reduced salt intake for hypertension.
+- Regular exercise, healthy diet, weight control, and reduced salt intake for [[msra/Cardiovascular/Hypertension|Hypertension]].
 - Severe cases may require dialysis or kidney transplant.
 
 ### References

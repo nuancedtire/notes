@@ -26,7 +26,7 @@
 ### Investigations
 1. **Physical Exam:** Abdominal & PR examination (smooth, enlarged, non-tender, firm prostate).
 2. **Urinalysis:** Rule out hematuria & urinary tract infections.
-3. **Serum PSA Levels:** Rule out prostate cancer.
+3. **Serum PSA Levels:** Rule out [[msra/Immunology and Cancer/Prostate Cancer|Prostate Cancer]].
 4. **Abdominal Ultrasound:**
    - Increased prostate volume
    - Increased post-void volume
@@ -38,12 +38,12 @@
 **Medical Therapy for Mild-Moderate BPH:**
 - **Alpha-1 Antagonists** (e.g., doxazosin, alfuzosin, tamsulosin): 
   - Mechanism: Relax bladder neck & prostate smooth muscle.
-  - Side effects: Hypotension, erectile dysfunction, headaches.
+  - Side effects: Hypotension, [[Erectile dysfunction]], headaches.
 
 - **5-alpha Reductase Inhibitors** (e.g., finasteride, dutasteride):
   - Mechanism: Inhibit DHT production to reduce growth.
   - Slower acting but longer-lasting effects.
-  - Side effects: Erectile dysfunction, gynecomastia.
+  - Side effects: [[Erectile dysfunction]], gynecomastia.
 
 - **Parasympatholytics** (e.g., oxybutynin): 
   - For patients without raised post-voidal volume who have irritative symptoms.

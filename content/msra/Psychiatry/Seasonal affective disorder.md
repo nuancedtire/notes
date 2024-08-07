@@ -1,8 +1,8 @@
 ## Seasonal Affective Disorder (SAD)
 
-- **Definition**: SAD is a type of depression with a seasonal pattern, primarily occurring in winter, also known as "winter depression." Symptoms recur at the same time each year and remit outside these periods.
+- **Definition**: SAD is a type of [[msra/Psychiatry/Depression|Depression]] with a seasonal pattern, primarily occurring in winter, also known as "winter [[msra/Psychiatry/Depression|Depression]]." Symptoms recur at the same time each year and remit outside these periods.
 
-- **Classification**: Classified under 'recurrent depressive disorder' in the ICD-10; controversial as some consider it a form of atypical depression.
+- **Classification**: Classified under 'recurrent depressive disorder' in the ICD-10; controversial as some consider it a form of atypical [[msra/Psychiatry/Depression|Depression]].
 
 - **Causes**: Not well understood, but believed to relate to:
   - Reduced sunlight exposure
@@ -12,15 +12,15 @@
 ## Diagnosis
 
 - **Clinical Features**:
-  - Mild to moderate depression symptoms (low mood, anhedonia, fatigue, sleep disturbances, feelings of guilt/hopelessness)
+  - Mild to moderate [[msra/Psychiatry/Depression|Depression]] symptoms (low mood, anhedonia, fatigue, sleep disturbances, feelings of guilt/hopelessness)
   - Symptoms must have a seasonal pattern. 
   - Increased appetite, especially for carbohydrates.
   
-- **Considerations**: If no seasonal pattern is present, it may be another type of depression.
+- **Considerations**: If no seasonal pattern is present, it may be another type of [[msra/Psychiatry/Depression|Depression]].
 
 ## Investigations
 
-- **Diagnosis**: Primarily clinical but require ruling out organic causes mimicking SAD (e.g., endocrine disorders such as hypothyroidism, Cushing’s syndrome).
+- **Diagnosis**: Primarily clinical but require ruling out organic causes mimicking SAD (e.g., endocrine disorders such as [[msra/Endocrinology and Metabolic/Hypothyroidism|Hypothyroidism]], [[Cushing’s Syndrome]]).
   
 - **Standard Tests**:
   - FBC, U&Es, LFTs, TFTs, glucose, calcium profiles, and haematinics.

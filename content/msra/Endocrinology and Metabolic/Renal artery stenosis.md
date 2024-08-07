@@ -22,7 +22,7 @@
 **Main Causes**:
 1. **[[Atherosclerosis]]**:
    - Hypertension onset >55 years
-   - History of coronary artery disease
+   - History of [[coronary artery disease]]
    - History of peripheral vascular disease
 2. **Fibromuscular Dysplasia**:
    - Hypertension onset <30 years 

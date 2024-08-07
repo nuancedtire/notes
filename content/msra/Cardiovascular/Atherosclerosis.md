@@ -24,7 +24,7 @@ Atheroembolic disease can occur after:
 - Diabetes
 
 Patients often have co-morbidities, including:
-- Coronary artery disease
+- [[Coronary artery disease]]
 - Heart failure
 - Cerebrovascular disease
 - Renal disease

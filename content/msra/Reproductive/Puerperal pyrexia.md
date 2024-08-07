@@ -40,7 +40,7 @@ Puerperal pyrexia (fever) is defined as fever (>= 38.0°C) in a woman within six
 ### Complications of Infection
 #### Local
 - Abscess formation (pelvic, breast)
-- Adhesions, peritonitis, haemorrhage, infertility
+- Adhesions, peritonitis, haemorrhage, [[Infertility]]
 - Pyelonephritis, renal scarring
 
 #### Systemic
@@ -60,8 +60,8 @@ Puerperal pyrexia (fever) is defined as fever (>= 38.0°C) in a woman within six
 - Chest x-ray, sputum culture if needed
 
 ### Management (Prescribing)
-- Administer intravenous broad-spectrum antibiotics within one hour of severe sepsis suspicion.
-- Options include piperacillin/tazobactam or carbapenem + clindamycin (vancomycin if MRSA suspected).
+- Administer intravenous broad-spectrum antibiotics within one hour of severe [[Sepsis]] suspicion.
+- Options include piperacillin/tazobactam or carbapenem + clindamycin (vancomycin if [[MRSA]] suspected).
 - Note breastfeeding status.
 - Analgesia is important; avoid NSAIDs for GAS infections.
 - For severe infections unresponsive to treatment, consider intravenous immunoglobulin (IVIg).

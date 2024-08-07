@@ -1,11 +1,11 @@
 ### Causes of Predominantly Upper Zone Fibrosis:
-- Sarcoidosis
-- Pulmonary tuberculosis
+- [[msra/Musculoskeletal/Sarcoidosis|Sarcoidosis]]
+- Pulmonary [[msra/Respiratory/Tuberculosis|Tuberculosis]]
 - Silicosis
 - Coal workers’ pneumoconiosis
-- Cystic fibrosis
-- Hypersensitivity pneumonitis
-- Pneumocystis pneumonia
+- [[Cystic Fibrosis]]
+- [[Hypersensitivity pneumonitis]]
+- Pneumocystis [[Pneumonia]]
 - Ankylosing spondylitis
 
 ### Causes of Predominantly Lower Zone Fibrosis:

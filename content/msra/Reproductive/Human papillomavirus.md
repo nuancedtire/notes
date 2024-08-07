@@ -27,7 +27,7 @@
   - Anogenital warts: Inspect anogenital area; may require speculum exam of anus/vagina; consider oropharyngeal exam
   - Cervical dysplasia: Speculum exam of cervix
 
-- **Cervical Screening**:
+- **[[Cervical screening]]**:
   - Offered to women aged 25-64, includes HPV testing
   - Abnormal Pap smear = referral for colposcopy
 

@@ -10,12 +10,12 @@ Endometriosis is a chronic inflammatory condition affecting women of any age, ch
 - Sub-fertility
 - Uterosacral ligament nodularity
 - Fixed, retroverted uterus
-- Depression
+- [[msra/Psychiatry/Depression|Depression]]
 
 ### Risk Factors
 - Family history of endometriosis
 - Nulliparity
-- Lower body mass index
+- Lower body mass [[index]]
 - Smoking
 - Previous caesarean section
 - Mullerian anomalies
@@ -30,7 +30,7 @@ Endometriosis is a chronic inflammatory condition affecting women of any age, ch
   - Diagnostic laparoscopy
 
 ## Management (Prescribing and Non-Prescribing)
-The relationship between endometriosis severity and infertility is not fully established, but increased adhesions are believed to decrease natural conception chances.
+The relationship between endometriosis severity and [[Infertility]] is not fully established, but increased adhesions are believed to decrease natural conception chances.
 
 ### For Patients Struggling to Conceive
 - **First-line**: Controlled ovarian hyperstimulation (e.g., clomifene)
@@ -44,7 +44,7 @@ The relationship between endometriosis severity and infertility is not fully est
 - **With Endometrioma or Suspected Deep Disease**: Surgery followed by post-surgical hormone therapy.
 - **Without Endometrioma or Suspected Deep Disease**: 
   - First-line: Non-steroidal anti-inflammatory drugs
-  - First-line: Combined oral contraceptive pill (COCP)
+  - First-line: Combined [[Oral Contraceptive Pill]] (COCP)
   - Second-line: GnRH agonist
   - Second-line: GnRH antagonist
   - Third-line: Androgen

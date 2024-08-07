@@ -3,7 +3,7 @@
 - **Cause**: Treponema Pallidum (spirochete).
 - **Transmission**: 
   - Through cuts/breaks in mucosa during sexual contact.
-  - Contaminated skin lesions or needles.
+  - Contaminated [[Skin lesions]] or needles.
   - Congenital transmission: early signs include hepatosplenomegaly, mucous membrane ulceration, and rhinitis.
 
 ## Diagnosis (Stages of Infection)

@@ -9,7 +9,7 @@
 - Non-restorative sleep, morning headache, daytime somnolence
 - Mood changes: anxiety, irritability, depression
 - Sexual dysfunction
-- Long-term risks: hypertension, coronary artery disease (CAD), cerebrovascular accidents (CVA), arrhythmias
+- Long-term risks: hypertension, [[coronary artery disease]] (CAD), cerebrovascular accidents (CVA), arrhythmias
 - Cognitive effects: memory loss, decreased concentration, confusion
 
 ### Risk Factors

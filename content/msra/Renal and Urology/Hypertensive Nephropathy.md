@@ -1,11 +1,11 @@
-Hypertensive nephropathy describes kidney damage due to chronic hypertension, leading to nephrosclerosis, which is the hardening of the kidneys with vascular lesions, predominantly in pre-glomerular vessels. It can manifest as benign or malignant forms, potentially resulting in chronic kidney disease (CKD) and end-stage renal disease (ESRD). Managing high blood pressure is essential to minimize renal damage and preserve function.
+Hypertensive nephropathy describes kidney damage due to chronic [[msra/Cardiovascular/Hypertension|Hypertension]], leading to nephrosclerosis, which is the hardening of the kidneys with [[Vascular]] lesions, predominantly in pre-glomerular vessels. It can manifest as benign or malignant forms, potentially resulting in [[msra/Renal and Urology/Chronic Kidney Disease|Chronic Kidney Disease]] (CKD) and end-stage renal disease (ESRD). Managing high blood pressure is essential to minimize renal damage and preserve function.
 
 ### Diagnosis
 
 - **Prevalence**: 
   - CKD: ~6%
-  - Hypertension: ~26% (adult UK population)
-  - CKD is more common in women; hypertension is more prevalent in men.
+  - [[msra/Cardiovascular/Hypertension|Hypertension]]: ~26% (adult UK population)
+  - CKD is more common in women; [[msra/Cardiovascular/Hypertension|Hypertension]] is more prevalent in men.
   
 - **Symptoms**:
   - Loss of appetite
@@ -16,7 +16,7 @@ Hypertensive nephropathy describes kidney damage due to chronic hypertension, le
   - Metallic taste
 
 - **Diagnostic Criteria**:
-  - Long-term chronic hypertension
+  - Long-term chronic [[msra/Cardiovascular/Hypertension|Hypertension]]
   - Progressive renal damage
   - Albumin levels in urine (albuminuria) indicate glomerular damage.
   - 24-hour urine collection tests for proteinuria.
@@ -25,7 +25,7 @@ Hypertensive nephropathy describes kidney damage due to chronic hypertension, le
 
 ### Investigations
 
-- Blood pressure measurement for hypertension detection
+- Blood pressure measurement for [[msra/Cardiovascular/Hypertension|Hypertension]] detection
 - Evaluation of:
   - Anaemia (normocytic, normochromic)
   - Elevated potassium, phosphate, creatinine

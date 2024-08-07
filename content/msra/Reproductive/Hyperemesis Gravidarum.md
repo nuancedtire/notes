@@ -28,7 +28,7 @@ For first-time severe nausea and vomiting, the following investigations are need
   - FBC: normal
   - Urea and electrolytes: electrolyte imbalance
   - Liver function tests: normal  
-  - Thyroid function tests: may indicate hypo/hyperthyroidism  
+  - Thyroid function tests: may indicate hypo/[[msra/Endocrinology and Metabolic/Hyperthyroidism|Hyperthyroidism]]  
 
 - **Urine Tests**:
   - Urinalysis: ketonuria and elevated specific gravity (helps rule out UTI)  

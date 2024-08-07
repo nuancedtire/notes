@@ -3,12 +3,12 @@ Postpartum psychosis is a rare psychiatric illness occurring in new mothers shor
 - **Symptoms**: 
   - Delusions
   - Hallucinations
-  - Mania
-  - Psychotic symptoms in depression
+  - [[Mania]]
+  - Psychotic symptoms in [[msra/Psychiatry/Depression|Depression]]
   - Common signs: paranoia, hallucinations, delusions regarding safety of self/baby
 
 - **Risk Factors**: 
-  - Women with pre-existing psychiatric disorders (e.g., bipolar affective disorder, schizophrenia)
+  - Women with pre-existing psychiatric disorders (e.g., [[Bipolar affective disorder]], [[Schizophrenia]])
 
 ## Diagnosis
 
@@ -17,10 +17,10 @@ Postpartum psychosis is a rare psychiatric illness occurring in new mothers shor
   - Requires comprehensive psychiatric and medical history
   - Neurological examination to rule out organic causes
 - **Differential Diagnoses**: 
-  - Postpartum depression
-  - Depression with psychotic features
-  - Bipolar affective disorder
-  - Schizophrenia
+  - [[Postpartum depression]]
+  - [[msra/Psychiatry/Depression|Depression]] with psychotic features
+  - [[Bipolar affective disorder]]
+  - [[Schizophrenia]]
 
 ## Investigations
 

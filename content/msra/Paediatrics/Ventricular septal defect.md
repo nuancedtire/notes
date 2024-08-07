@@ -1,7 +1,7 @@
 ## Ventricular Septal Defects (VSD)
 
 ### Overview
-- Second most common congenital heart defect (after bicuspid aortic valves).
+- Second most common [[congenital heart defect]] (after bicuspid aortic valves).
 - Holes in ventricular septum: 
   - Most common: Membranous septum (perimembranous defects).
   - Less common: Muscular septum.

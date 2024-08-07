@@ -52,12 +52,12 @@
 
 ## Management (Prescribing)
 
-- **Antidepressants (SSRIs)**: Reduce severity of PTSD symptoms and associated depression.
+- **Antidepressants (SSRIs)**: Reduce severity of PTSD symptoms and associated [[msra/Psychiatry/Depression|Depression]].
 - **Start Delay**: SSRIs should begin after initiating psychological treatment, unless:
   - Patient prefers not to engage in therapy.
   - Unable to start due to ongoing trauma risk (e.g., domestic violence).
   - Has not responded to or tolerated therapy.
-  - Treating comorbid depression.
+  - Treating comorbid [[msra/Psychiatry/Depression|Depression]].
 
 - **Effective SSRIs**: Paroxetine, fluoxetine, sertraline, and venlafaxine (SNRI).
 - **Non-Responsive Patients**: Increase dose or switch medications; consider risperidone to augment SSRI treatment.

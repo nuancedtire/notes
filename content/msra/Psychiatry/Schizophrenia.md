@@ -65,4 +65,4 @@
 
 ## References
 - Oxford Handbook of Psychiatry, 3rd edition, pages 178-217, 956-959
-- NICE clinical guideline [CG178] – Psychosis and schizophrenia in adults: prevention and management, 2014
+- NICE clinical guideline [CG178] – [[Psychosis and schizophrenia]] in adults: prevention and management, 2014

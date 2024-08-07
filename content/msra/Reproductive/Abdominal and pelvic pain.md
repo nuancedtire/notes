@@ -1,17 +1,17 @@
 ### Pelvic Inflammatory Disease (PID)
 
 - **Definition**: Infection of the female upper genital tract (uterus, fallopian tubes, ovaries).
-- **Common Cause**: Sexually transmitted infections, mainly chlamydia.
+- **Common Cause**: Sexually transmitted infections, mainly [[Chlamydia]].
 - **Symptoms**:
   - Lower abdominal/pelvic pain (usually bilateral)
   - Fever (acute phase)
   - Nausea and vomiting
-  - Excessive vaginal discharge
+  - Excessive [[msra/Reproductive/Vaginal discharge|Vaginal discharge]]
   - Possible peritonitis
 - **Risk Factors**:
   - Intrauterine devices (IUDs) increase risk
   - Not recommended for women with a history of PID.
-  - Ectopic pregnancy risk must be assessed in similar presentations (pregnancy test essential).
+  - [[msra/Reproductive/Ectopic Pregnancy|Ectopic Pregnancy]] risk must be assessed in similar presentations (pregnancy test essential).
 - **Chronic PID**: 
   - Results from untreated acute PID.
   - Symptoms: Chronic pelvic pain, menorrhagia, dysmenorrhea, dyspareunia.
@@ -20,7 +20,7 @@
   - Both forms treated with antibiotics and analgesics; chronic response is poorer.
 - **Complications**:
   - Acute: Abscesses, peritonitis, septicemia.
-  - Long-term: Ectopic pregnancy risk, infertility.
+  - Long-term: [[msra/Reproductive/Ectopic Pregnancy|Ectopic Pregnancy]] risk, [[Infertility]].
   
 ### Differential Diagnosis:
 - Open-minded approach required for abdominal pain in women of child-bearing age.
@@ -33,7 +33,7 @@
 - **Acute Complications**:
   - Torsion: Ovary rotation causing ischemia.
   - Rupture: Potential for major hemorrhage.
-- **Associated Conditions**: More common in women with polycystic ovarian syndrome or endometriosis.
+- **Associated Conditions**: More common in women with [[Polycystic ovarian syndrome]] or [[msra/Reproductive/Endometriosis|Endometriosis]].
 - **Diagnosis**: Primarily through ultrasound scan.
 - **Management**:
   - **Emergency Cases**: Analgesia, stabilization, potential surgery.
