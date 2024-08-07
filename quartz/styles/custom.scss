@@ -1,3 +1,42 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.callout[data-callout="cardio"] {
+    --callout-icon: heart-pulse;
+}
+.callout[data-callout="derma"] {
+    --callout-icon: hand;
+}
+.callout[data-callout="ent"] {
+    --callout-icon: ear;
+}
+.callout[data-callout="endocrinology"] {
+    --callout-icon: thermometer;
+}
+.callout[data-callout="gastroenterology"] {
+    --callout-icon: utensils;
+}
+.callout[data-callout="genetics"] {
+    --callout-icon: dna;
+}
+.callout[data-callout="haematology"] {
+    --callout-icon: syringe;
+}
+.callout[data-callout="immunology"] {
+    --callout-icon: shield;
+}
+.callout[data-callout="infectious-disease"] {
+    --callout-icon: biohazard;
+}
+.callout[data-callout="musculoskeletal"] {
+    --callout-icon: bone;
+}
+.callout[data-callout="neurology"] {
+    --callout-icon: brain;
+}
+.callout[data-callout="ophthalmology"] {
+    --callout-icon: eye;
+}
+.callout[data-callout="clinical-textbook"] {
+    --callout-icon: book;
+}
