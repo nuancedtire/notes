@@ -292,7 +292,7 @@ title: Notes
 ---
 ## CKS notes
 
->[!clinical-textbook]-  CKS notes
+>[!example]-  CKS notes
 > - [[AIDS and HIV infection]]
 > - [[Abdominal aortic aneurysm screening]]
 > - [[Abortion]]
