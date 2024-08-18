@@ -1,0 +1,8 @@
+Cutaneous larva migrans is a dermatological condition prevalent in tropical and subtropical regions, largely attributable to cutaneous penetration and subsequent migration of nematode larvae, primarily from the *Ancylostoma* genus (e.g. *Ancyclostoma braziliense*). Typically, the transmission vectors are faecal\-contaminated soil or sand, posing significant risks to individuals with a history of barefoot beach visits or direct soil contact.  
+  
+The clinical presentation typically involves an intensely pruritic, 'creeping', serpiginous, erythematous cutaneous eruption that advances over time. Symptoms can last for weeks to months, potentially leading to secondary bacterial infection due to excessive scratching. Diagnosis is typically clinical, based on exposure history and characteristic skin manifestations.  
+  
+[![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd570.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd570b.jpg)  
+Treatment options revolve around anthelmintic agents, such as ivermectin or albendazole. Topical therapy with thiabendazole can also be effective, although it's generally less preferred due to a lower efficacy rate and higher side effect profile.  
+  
+Prevention strategies largely involve patient education about appropriate protective measures, particularly avoiding direct skin contact with potentially contaminated soil. Given the zoonotic nature of cutaneous larva migrans, public health measures for animal defecation control can also contribute to reducing the prevalence of this condition.

@@ -1,0 +1,1 @@
+Port wine stains are vascular birthmarks that tend to be unilateral. They are deep red or purple in colour. Unlike other vascular birthmarks such as salmon patches and strawberry haemangiomas, they do not spontaneously resolve, and in fact often darken and become raised over time. Treatment is with cosmetic camouflage or laser therapy (multiple sessions are required).

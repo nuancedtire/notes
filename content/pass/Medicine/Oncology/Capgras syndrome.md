@@ -1,0 +1,1 @@
+Capgras syndrome refers to a disorder in which a person holds a delusion that a friend or partner has been replaced by an identical\-looking impostor.

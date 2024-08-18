@@ -1,0 +1,5 @@
+The majority of patients with chronic kidney disease (CKD) will require more than two drugs to treat hypertension. ACE inhibitors are first line and are particularly helpful in proteinuric renal disease (e.g. diabetic nephropathy). As these drugs tend to reduce filtration pressure a small fall in glomerular filtration pressure (GFR) and rise in creatinine can be expected. NICE suggest that a decrease in eGFR of up to 25% or a rise in creatinine of up to 30% is acceptable, although any rise should prompt careful monitoring and exclusion of other causes (e.g. NSAIDs). A rise greater than this may indicate underlying renovascular disease.   
+  
+Furosemide is useful as a anti\-hypertensive in patients with CKD, particularly when the GFR falls to below 45 ml/min\*. It has the added benefit of lowering serum potassium. High doses are usually required. If the patient becomes at risk of dehydration (e.g. Gastroenteritis) then consideration should be given to temporarily stopping the drug  
+  
+\*the NKF K/DOQI guidelines suggest a lower cut\-off of less than 30 ml/min

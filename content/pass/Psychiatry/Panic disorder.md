@@ -1,0 +1,3 @@
+For Panic disorder to be diagnosed symptoms have to be present for at least 1 month. The prevalence of panic attacks is around 7\-9%, the prevalence of panic disorder is 1\.5\-2\.5%. It is twice as common in females than in males. There are two peaks of onset from ages 15\-24 and 45\-54\. SSRIs and CBT are the most commonly used therapies for Panic disorder.  
+  
+Living alone, early parental loss, a history of abuse, poor educational history and urban living are risk factors for developing panic disorder. There is a 40% prevalence seen in 1st degree relatives of those with panic disorder and it generally follows a chronic, mild and stable course in 50% of patients.

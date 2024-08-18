@@ -1,0 +1,1 @@
+Myxoid cysts (also known as mucous cysts) are benign ganglion cysts usually found on the distal, dorsal aspect of the finger. There is usually osteoarthritis in the surrounding joint. They are more common in middle\-aged women.

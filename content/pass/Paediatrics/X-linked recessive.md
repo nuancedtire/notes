@@ -1,0 +1,5 @@
+In X\-linked recessive inheritance only males are affected. An exception to this seen in examinations are patients with Turner's syndrome, who are affected due to only having one X chromosome. X\-linked recessive disorders are transmitted by heterozygote females (carriers) and male\-to\-male transmission is not seen. Affected males can only have unaffected sons and carrier daughters.  
+  
+Each male child of a heterozygous female carrier has a 50% chance of being affected whilst each female child of a heterozygous female carrier has a 50% chance of being a carrier.  
+  
+The possibility of an affected father having children with a heterozygous female carrier is generally speaking extremely rare. However, in certain Afro\-Caribbean communities G6PD deficiency is relatively common and homozygous females with clinical manifestations of the enzyme defect are seen.

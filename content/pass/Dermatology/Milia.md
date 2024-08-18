@@ -1,0 +1,1 @@
+Milia are small, benign, keratin\-filled cysts that typically appear around the face. They may appear at any age but are more common in newborns.

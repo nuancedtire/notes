@@ -1,0 +1,1 @@
+A congenital cyst found in the mouth. They are common on the hard palate, but may also be seen on the gums where the parents may mistake it for an erupting tooth. No treatment is generally required as they tend to spontaneously resolve over the course of a few weeks.

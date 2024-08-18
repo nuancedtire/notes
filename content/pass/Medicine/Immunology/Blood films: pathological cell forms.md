@@ -1,0 +1,20 @@
+**Pathological red cell forms**  
+  
+
+
+| **Abnormality** | **Associated condition(s)** | **Appearance** |
+| --- | --- | --- |
+| Target cells | Sickle\-cell/thalassaemiaIron\-deficiency anaemiaHyposplenismLiver disease | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd110.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd110b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd110b.jpg) | |
+| 'Tear\-drop' poikilocytes | Myelofibrosis | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd111.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd111b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd111b.jpg) | |
+| Spherocytes | Hereditary spherocytosisAutoimmune hemolytic anaemia | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd112.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd112b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd112b.jpg) | |
+| Basophilic stippling | Lead poisoningThalassaemiaSideroblastic anaemiaMyelodysplasia | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd113.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd113b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd113b.jpg) | |
+| Howell\-Jolly bodies | Hyposplenism | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd114.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd114b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd114b.jpg) | |
+| Heinz bodies | G6PD deficiencyAlpha\-thalassaemia | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd115.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd115b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd115b.jpg) | |
+| Schistocytes ('helmet cells') | Intravascular haemolysisMechanical heart valveDisseminated intravascular coagulation | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd116.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd116b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd116b.jpg) | |
+| 'Pencil' poikilocytes | Iron deficency anaemia | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd117.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd117b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd117b.jpg) | |
+| Burr cells (echinocytes) | UraemiaPyruvate kinase deficiency | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd118.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd118b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd118b.jpg) | |
+| Acanthocytes | Abetalipoproteinemia | | [![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd119.jpg)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd119b.jpg) | | | --- | --- | |  | [![](https://d32xxyeh8kfs8k.cloudfront.net/css/images/mag_glass.png)](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd119b.jpg) | |
+
+  
+Other blood film abnormalities:  
+* hypersegmented neutrophils: megaloblastic anaemia

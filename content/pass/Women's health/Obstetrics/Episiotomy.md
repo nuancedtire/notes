@@ -1,0 +1,1 @@
+An episiotomy describes an incision in the posterior wall of the vagina and perineum that is performed in the second stage of labour to facilitate the passage of the fetus.

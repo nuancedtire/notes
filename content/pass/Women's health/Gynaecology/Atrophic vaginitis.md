@@ -1,0 +1,1 @@
+Atrophic vaginitis often occurs in women who are post\-menopausal women. It presents with vaginal dryness, dyspareunia and occasional spotting. On examination, the vagina may appear pale and dry. Treatment is with vaginal lubricants and moisturisers \- if these do not help then topical oestrogen cream can be used.

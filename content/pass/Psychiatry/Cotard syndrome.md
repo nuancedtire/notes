@@ -1,0 +1,3 @@
+Cotard syndrome is a rare mental disorder where the affected patient believes that they (or in some cases just a part of their body) is either dead or non\-existent. This delusion is often difficult to treat and can result in significant problems due to patients stopping eating or drinking as they deem it not necessary.  
+  
+Cotard syndrome is associated with severe depression and psychotic disorders.

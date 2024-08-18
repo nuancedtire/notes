@@ -31,15 +31,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-        removeTags: ["hidden"], // what tags to remove from the graph
-      },
-      globalGraph: {
-        removeTags: ["hidden"], // what tags to remove from the graph
-      },
-    }),
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.Graph({
+    //   localGraph: {
+    //     removeTags: ["hidden"], // what tags to remove from the graph
+    //   },
+    //   globalGraph: {
+    //     removeTags: ["hidden"], // what tags to remove from the graph
+    //   },
+    // }),
+    Component.TableOfContents(),
+    // Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }

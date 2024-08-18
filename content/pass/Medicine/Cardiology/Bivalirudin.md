@@ -1,0 +1,1 @@
+Bivalirudin is a reversible direct thrombin inhibitor used as an anticoagulant in the management of acute coronary syndrome.

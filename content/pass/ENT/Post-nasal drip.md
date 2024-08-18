@@ -1,0 +1,1 @@
+Post\-nasal drip (PND) occurs as a result of excessive mucus production by the nasal mucosa. This excess mucus accumulates in the throat or in the back of the nose resulting in a chronic cough and bad breath.
